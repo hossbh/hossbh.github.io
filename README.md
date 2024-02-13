@@ -1,6 +1,6 @@
 # Hossein Basereh Taramsari
 
-Ph.D. Candidate in Engineering Management 
+Ph.D. Candidate in Engineering Management with M.Sc in Mechanical Engineering
 
 Contact: +1 (551) 247-9955 | basereh.hossein@outlook.com | [LinkedIn](https://www.linkedin.com/in/hossein-basereh)
 
