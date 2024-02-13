@@ -1,6 +1,6 @@
 # Hossein Basereh Taramsari
 
-_Ph.D. Candidate in Engineering Management | Green Card Holder_
+Ph.D. Candidate in Engineering Management 
 
 Contact: +1 (551) 247-9955 | basereh.hossein@outlook.com | [LinkedIn](https://www.linkedin.com/in/hossein-basereh)
 
@@ -53,3 +53,4 @@ Contact: +1 (551) 247-9955 | basereh.hossein@outlook.com | [LinkedIn](https://ww
 - Doctoral Students Representative in Graduate Curriculum Committee | 2023 - 2024
 - Doctoral Students Representative in Dean’s Advisory Board | 2023 - 2024
 - Sustainable Design Expert for Jersey City Public Schools | Aug 2023
+
