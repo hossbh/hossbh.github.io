@@ -4,7 +4,7 @@ Ph.D. Candidate in Engineering Management with M.Sc in Mechanical Engineering
 
 Contact: +1 (551) 247-9955 | basereh.hossein@outlook.com | [LinkedIn](https://www.linkedin.com/in/hossein-basereh)
 
-## Technical Skills
+## Skills
 - **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX
 - **CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, Onshape, SolidEdge
 - **Other Software:** Tableau, PowerBI, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Microsoft (Project, Excel, Word, Outlook, Access)
@@ -33,7 +33,25 @@ Contact: +1 (551) 247-9955 | basereh.hossein@outlook.com | [LinkedIn](https://ww
   - Managed product development projects in automotive steering systems.
 
 ## Publications
-[List of publications, including conference papers and journal articles]
+• Nilchiani, R., Caddel, J., Basereh Taramsari, H. (2024) “Beyond Technology Readiness Level 9: Measuring
+Technology Aging and Contextual Relevance in Complex Legacy Systems,” INCOSE 34th Annual International
+Symposium 2024, Dublin, Ireland, July 2-6.
+• Basereh Taramsari, H., Rao, B., Nilchiani, R., Lipizzi, C. (2024) “Identification of Variables Impacting Cascading
+Failures in Aerospace Systems: A Natural Language Processing Approach,” Conference on Systems Engineering
+Research (CSER), Tucson, AR, March 25-28.
+• Basereh Taramsari, H., Mudhar, S., Hoffenson, S. (2023) “An Integrated Holistic Approach Toward Sustainable
+Product Design Using Life Cycle Assessment,” ASME International Design Engineering Technical Conferences, Boston,
+MA, August 20-23.
+• Basereh Taramsari, H., McFarren, J., Watz, M., Hallstedt, S., Hoffenson, S. (2023) “Assessing Systemic Drivers and
+Barriers to Sustainable Design Transitions: Relationship Strengths and Research Gaps,” International Conference on
+Engineering Design, Bordeaux, France, July 24-28.
+• Basereh Taramsari, H., Hoffenson, S. (2023) “Sustainable Design of a Reusable Water Bottle: A Systems Thinking
+Approach,” Conference on Systems Engineering Research (CSER), Hoboken, NJ, March 16-17.
+• Carter, M., Basereh Taramsari, H., and Hoffenson, S. (2022) “Exploring the Integration of Design Structure Matrix
+and Life Cycle Assessment Tools to Improve Design for Sustainability,” ASME International Design Engineering
+Technical Conferences, St. Louis, MO, August 14-17.
+• Basereh Taramsari, H., and Wahyudi, H., (2016) Fabrication, Analysis and Experiment of a New Design Mechanical
+Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 
 ## Awards
 - Design Theory and Methodology Poster Session Award | ASME
