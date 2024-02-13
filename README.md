@@ -1,12 +1,13 @@
-# Ph.D. Candidate in Engineering Management with M.Sc in Mechanical Engineering
+# Ph.D. Candidate in Engineering Management 
 
-Contact: basereh.hossein@outlook.com | [LinkedIn](https://www.linkedin.com/in/hossein-basereh)
+Contact: [basereh.hossein@outlook.com](mailto:basereh.hossein@outlook.com) | [LinkedIn](https://www.linkedin.com/in/hossein-basereh)
+Address: Jersey City, NJ, United States
 
 ## Skills
 - **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX
 - **CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, Onshape, SolidEdge
 - **Other Software:** Tableau, PowerBI, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Microsoft (Project, Excel, Word, Outlook, Access)
-- **Soft Skills:** Research-driven, problem-solver, critical-thinker, excellent verbal and written communication, leadership abilities, proactive, self-motivated, organized, efficient, attention to detail, strong adaptability/flexibility.
+- **Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with high attention to details, and strong adaptability/flexibility. 
 
 ## Education
 - **Ph.D. in Engineering Management** | _Stevens Institute of Technology, USA_ | Jan 2022 – Anticipated Dec 2024
