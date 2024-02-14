@@ -7,7 +7,7 @@ Address: Jersey City, NJ, United States
 - **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX
 - **CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, Onshape, SolidEdge
 - **Other Software:** Tableau, PowerBI, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Microsoft (Project, Excel, Word, Outlook, Access)
-- **Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with high attention to details, and strong adaptability/flexibility. 
+- **Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility. 
 
 ## Education
 - **Ph.D. in Engineering Management** | _Stevens Institute of Technology, USA_ | Jan 2022 – Anticipated Dec 2024
@@ -124,7 +124,12 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 
 ## Volunteering
 - Doctoral Students Representative in Graduate Curriculum Committee | 2023 - 2024
+    - Meeting with the committee to propose, discuss, and vote on curriculum updates (new courses, new graduate programs,
+changes to curriculum, etc.).
 - Doctoral Students Representative in Dean’s Advisory Board | 2023 - 2024
+    - Meet and work with the Dean to discuss program/community concerns and ideas for improvement and help grow and unite the community.
 - Sustainable Design Expert for Jersey City Public Schools | Aug 2023
+    - Sustainable Design High School STEAM Challenge Summer Program
 - Ph.D. Peer Mentor Program | 2022 - 2024
+    - Assist new students in making an easy transition to Ph.D. programs and Strategic Planning workshops for new doctoral students. 
 
