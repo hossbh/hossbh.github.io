@@ -4,7 +4,6 @@ Contact: [basereh.hossein@outlook.com](mailto:basereh.hossein@outlook.com) | [Li
 
 Address: Jersey City, NJ, United States
 
----
 ## Skills
 **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX
 
@@ -14,7 +13,7 @@ Address: Jersey City, NJ, United States
 
 **Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility. 
 
----
+
 ## Experience
 **Research and Teaching Assistant** | _Stevens Institute of Technology, USA_ | Jan 2022 - Present
   - Applying systems engineering and machine learning methods to manage complexity in mechanical design systems.
@@ -36,7 +35,7 @@ Address: Jersey City, NJ, United States
   - Designed, modeled, and analyzed automotive parts to document finite element analysis (FEA) and failure mode and effect analysis (FMEA) reports.
   - Managed cross-functional teams to identify bottlenecks and optimize manufacturing and assembly of products.
 
----
+
 ## Education
 **Ph.D. in Engineering Management** | _Stevens Institute of Technology, USA_ | Jan 2022 – Anticipated Dec 2024
   - GPA 4.00
@@ -94,7 +93,7 @@ Address: Jersey City, NJ, United States
   - Advisor: Mr. Harris Wayhudi
   - Abstract:
 
----
+
 ## Publications
 - Nilchiani, R., Caddel, J., Basereh Taramsari, H. (2024) “Beyond Technology Readiness Level 9: Measuring
 Technology Aging and Contextual Relevance in Complex Legacy Systems,” INCOSE 34th Annual International
@@ -122,7 +121,7 @@ Technical Conferences, St. Louis, MO, August 14-17.
 - Basereh Taramsari, H., and Wahyudi, H., (2016) Fabrication, Analysis and Experiment of a New Design Mechanical
 Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 
----
+
 ## Awards
 - Design Theory and Methodology Poster Session Award | ASME (2022 & 2023)
 - Computer and Information in Engineering Poster Session Award | ASME (2023)
@@ -130,7 +129,7 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 - Master of Science in Engineering Grant | Gdańsk University of Technology (2014)
 - Dean’s List Award Bachelor of Engineering (Hons) | Coventry University (2011)
 
----
+
 ## Memberships
 - American Society for Engineering Management (ASEM)
 - American Society of Mechanical Engineers (ASME)
@@ -138,7 +137,7 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 - The International Council on Systems Engineering (INCOSE)
 - The International Society of Transdisciplinary Engineering (ISTE)
 
----
+
 ## Volunteering
 - Doctoral Students Representative in Graduate Curriculum Committee | 2023 - 2024
     - Meeting with the committee to propose, discuss, and vote on curriculum updates (new courses, new graduate programs,
