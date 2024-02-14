@@ -1,6 +1,7 @@
 # Ph.D. Candidate in Engineering Management 
 
-Contact: [basereh.hossein@outlook.com](mailto:basereh.hossein@outlook.com) | [LinkedIn](https://www.linkedin.com/in/hossein-basereh)
+Contact: [basereh.hossein@outlook.com](mailto:basereh.hossein@outlook.com) | [LinkedIn](https://www.linkedin.com/in/hossein-basereh)(<br>)
+
 Address: Jersey City, NJ, United States
 
 ## Skills
@@ -10,7 +11,7 @@ Address: Jersey City, NJ, United States
 - **Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility. 
 
 ## Education
-- **Ph.D. in Engineering Management** | _Stevens Institute of Technology, USA_ | Jan 2022 – Anticipated Dec 2024
+**Ph.D. in Engineering Management** | _Stevens Institute of Technology, USA_ | Jan 2022 – Anticipated Dec 2024
   - GPA 4.00
   - Selected Courses:
     - Systems Modeling and Simulation
@@ -30,7 +31,7 @@ Address: Jersey City, NJ, United States
       - Advisor: Dr. Roshanak Nilchiani
       - Abstract: 
 
-- **M.Sc. in Mechanical Engineering** | _Gdańsk University of Technology, PL_ | Feb 2014 - Dec 2015
+**M.Sc. in Mechanical Engineering** | _Gdańsk University of Technology, PL_ | Feb 2014 - Dec 2015
   - GPA 4.00
   - Specialization: Design Engineering
   - Selected Courses:
@@ -49,7 +50,7 @@ Address: Jersey City, NJ, United States
   - Advisor: Dr. hab. inż. Jacek Łubiński
   - Abstract:
     
-- **B.Eng. (Hons) in Mechanical Engineering** | _Coventry University, UK_ | Jan 2011 - Dec 2013
+**B.Eng. (Hons) in Mechanical Engineering** | _Coventry University, UK_ | Jan 2011 - Dec 2013
   - GPA 4.00 ( First Class with Honors)
   - Selected Courses:
     - Solid Mechanics
