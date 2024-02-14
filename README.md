@@ -11,11 +11,61 @@ Address: Jersey City, NJ, United States
 
 ## Education
 - **Ph.D. in Engineering Management** | _Stevens Institute of Technology, USA_ | Jan 2022 – Anticipated Dec 2024
-  - Dissertation: “Sustainability management framework for complex engineering design systems.”
-- **M.Sc. in Mechanical Engineering** | _Gdańsk University of Technology, Poland_ | Feb 2014 - Dec 2015
+  - GPA 4.00
+  - Selected Courses:
+    - Systems Modeling and Simulation
+    - Probability and Statistics
+    - Decision and Risk Analysis
+    - Applied Machine Learning
+    - Project Management of Complex Systems
+    - Dynamic Modeling of Systems and Enterprises
+    - Social Network Analytics and Visualization
+    - Decision Making via Data Analysis
+    - Engineering Economics and Cost Analysis
+    - Elements of Operation Research
+    - Informatics for Engineering Management
+  
+  - Ph.D. Dissertation:
+      - Title: “Sustainability management framework for complex engineering design systems.”
+      - Advisor: Dr. Roshanak Nilchiani
+      - Abstract: 
+
+- **M.Sc. in Mechanical Engineering** | _Gdańsk University of Technology, PL_ | Feb 2014 - Dec 2015
+  - GPA 4.00
+  - Specialization: Design Engineering
+  - Selected Courses:
+    - Applied Mechanics
+    - Contemporary Construction Materials
+    - Modeling Methods in Design
+    - Numerical Methods in Heat and Fluid Flow
+    - Design of Energy Installations
+    - Computer-Aided Machine Design
+    - Computer-Aided Process Planning
+    - Computer Aided Manufacturing
+    - Design and Automation of Technological Processes
+    - Integrated Systems of Production
+    - Combustion Processes in Power Engineering
   - Thesis: “Design and optimization of a three-fingered robotic hand.”
+  - Advisor: Dr. hab. inż. Jacek Łubiński
+  - Abstract:
+    
 - **B.Eng. (Hons) in Mechanical Engineering** | _Coventry University, UK_ | Jan 2011 - Dec 2013
+  - GPA 4.00 ( First Class with Honors)
+  - Selected Courses:
+    - Solid Mechanics
+    - Thermofluids Mechanics
+    - Analytical Modeling
+    - Engineering Mathematics
+    - Manufacturing Technology and Materials
+    - Thermofluid Dynamics
+    - Computer Aided Engineering
+    - Product Innovation
+    - Design Principles and Practice
+    - Instrumentation and Control
   - Thesis: “Design and fabrication of a mechanical hand.”
+  - Advisor: Mr. Harris Wayhudi
+  - Abstract:
+ 
 
 ## Experience
 - **Research and Teaching Assistant** | _Stevens Institute of Technology, USA_ | Jan 2022 - Present
@@ -35,20 +85,26 @@ Address: Jersey City, NJ, United States
 - Nilchiani, R., Caddel, J., Basereh Taramsari, H. (2024) “Beyond Technology Readiness Level 9: Measuring
 Technology Aging and Contextual Relevance in Complex Legacy Systems,” INCOSE 34th Annual International
 Symposium 2024, Dublin, Ireland, July 2-6.
+
 - Basereh Taramsari, H., Rao, B., Nilchiani, R., Lipizzi, C. (2024) “Identification of Variables Impacting Cascading
 Failures in Aerospace Systems: A Natural Language Processing Approach,” Conference on Systems Engineering
 Research (CSER), Tucson, AR, March 25-28.
+
 - Basereh Taramsari, H., Mudhar, S., Hoffenson, S. (2023) “An Integrated Holistic Approach Toward Sustainable
 Product Design Using Life Cycle Assessment,” ASME International Design Engineering Technical Conferences, Boston,
 MA, August 20-23.
+
 - Basereh Taramsari, H., McFarren, J., Watz, M., Hallstedt, S., Hoffenson, S. (2023) “Assessing Systemic Drivers and
 Barriers to Sustainable Design Transitions: Relationship Strengths and Research Gaps,” International Conference on
 Engineering Design, Bordeaux, France, July 24-28.
+
 - Basereh Taramsari, H., Hoffenson, S. (2023) “Sustainable Design of a Reusable Water Bottle: A Systems Thinking
 Approach,” Conference on Systems Engineering Research (CSER), Hoboken, NJ, March 16-17.
+
 - Carter, M., Basereh Taramsari, H., and Hoffenson, S. (2022) “Exploring the Integration of Design Structure Matrix
 and Life Cycle Assessment Tools to Improve Design for Sustainability,” ASME International Design Engineering
 Technical Conferences, St. Louis, MO, August 14-17.
+
 - Basereh Taramsari, H., and Wahyudi, H., (2016) Fabrication, Analysis and Experiment of a New Design Mechanical
 Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 
