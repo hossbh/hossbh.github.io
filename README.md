@@ -1,14 +1,14 @@
 # Ph.D. Candidate in Engineering Management 
 
-Contact: [basereh.hossein@outlook.com](mailto:basereh.hossein@outlook.com) | [LinkedIn](https://www.linkedin.com/in/hossein-basereh)(<br>)
+Contact: [basereh.hossein@outlook.com](mailto:basereh.hossein@outlook.com) | [LinkedIn](https://www.linkedin.com/in/hossein-basereh)
 
 Address: Jersey City, NJ, United States
 
 ## Skills
-- **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX
-- **CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, Onshape, SolidEdge
-- **Other Software:** Tableau, PowerBI, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Microsoft (Project, Excel, Word, Outlook, Access)
-- **Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility. 
+**Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX
+**CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, Onshape, SolidEdge
+**Other Software:** Tableau, PowerBI, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Microsoft (Project, Excel, Word, Outlook, Access)
+**Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility. 
 
 ## Education
 **Ph.D. in Engineering Management** | _Stevens Institute of Technology, USA_ | Jan 2022 – Anticipated Dec 2024
@@ -69,17 +69,17 @@ Address: Jersey City, NJ, United States
  
 
 ## Experience
-- **Research and Teaching Assistant** | _Stevens Institute of Technology, USA_ | Jan 2022 - Present
+**Research and Teaching Assistant** | _Stevens Institute of Technology, USA_ | Jan 2022 - Present
   - Applying systems engineering and machine learning methods to engineering design systems.
   - Integrating life cycle assessment (LCA) and design for sustainability (DfS) methods.
   - Teaching assistant for various engineering courses.
-- **Research and Development Engineer (Intern)** | _Arcmed Group, USA_ | May 2023 – Aug 2023
+**Research and Development Engineer (Intern)** | _Arcmed Group, USA_ | May 2023 – Aug 2023
   - Performed life cycle assessment for micro-pumps.
   - Developed sustainable engineering design procedures.
-- **Validation and Qualification Expert** | _Pania Validation Group, Iran_ | Apr 2017 – Dec 2021
+**Validation and Qualification Expert** | _Pania Validation Group, Iran_ | Apr 2017 – Dec 2021
   - Developed validation master plans for pharmaceutical companies.
   - Utilized risk analysis and management methods in manufacturing processes.
-- **Product and Manufacturing Engineer** | _Ezam Automotive Parts Group, Iran_ | Feb 2016 – Mar 2017
+**Product and Manufacturing Engineer** | _Ezam Automotive Parts Group, Iran_ | Feb 2016 – Mar 2017
   - Managed product development projects in automotive steering systems.
 
 ## Publications
