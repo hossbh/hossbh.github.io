@@ -53,7 +53,7 @@ Address: Jersey City, NJ, United States
     - Informatics for Engineering Management
   
   - Ph.D. Dissertation:
-      - Title: “Sustainability management framework for complex engineering design systems.”
+      - Title: “Holistic sustainability management framework for complex engineering design systems.”
       - Advisor: Dr. Roshanak Nilchiani
       - Abstract:
 
