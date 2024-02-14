@@ -55,7 +55,7 @@ Address: Jersey City, NJ, United States
   - Ph.D. Dissertation:
       - Title: “Sustainability management framework for complex engineering design systems.”
       - Advisor: Dr. Roshanak Nilchiani
-      - Abstract: 
+      - Abstract:
 
 **M.Sc. in Mechanical Engineering** | _Gdańsk University of Technology, PL_ | Feb 2014 - Dec 2015
   - GPA 4.00
@@ -74,7 +74,7 @@ Address: Jersey City, NJ, United States
     - Combustion Processes in Power Engineering
   - Thesis: “Design and optimization of a three-fingered robotic hand.”
   - Advisor: Dr. hab. inż. Jacek Łubiński
-  - Abstract: 
+  - Abstract:
     
 **B.Eng. (Hons) in Mechanical Engineering** | _Coventry University, UK_ | Jan 2011 - Dec 2013
   - GPA 4.00 ( First Class with Honors)
