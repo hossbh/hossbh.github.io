@@ -19,7 +19,14 @@ Address: Jersey City, NJ, United States
 **Research and Teaching Assistant** | _Stevens Institute of Technology, USA_ | Jan 2022 - Present
   - Applying systems engineering and machine learning methods to manage complexity in mechanical design systems.
   - Investigating life cycle assessment (LCA) and design for sustainability (DfS) methods to enable simultaneous consideration of environmental, social, and economic sustainability in product development.
-  - Teaching assistant for “Systems Modeling and Simulation”, “Decision and Risk Analysis”, ”Dynamic Modeling of Systems and Enterprises”, ”Innovative System Design” and “Engineering Design VI” courses.
+  - Teaching assistant:
+    - Systems Modeling and Simulation
+    - Decision and Risk Analysis
+    - Dynamic Modeling of Systems and Enterprises
+    - Innovative System Design
+    - Engineering Design VI
+    - Strategic Planning and Time Management Workshop
+    ► Sustainable Design - Exploring Career Options in Engineering and Science (ECOES) Summer Program
 
 **Research and Development Engineer (Intern)** | _Arcmed Group, USA_ | May 2023 – Aug 2023
   - Performed life cycle assessment for micro-pumps and comparative analysis of the four product configurations.
