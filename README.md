@@ -26,7 +26,7 @@ Address: Jersey City, NJ, United States
     - Innovative System Design
     - Engineering Design VI
     - Strategic Planning and Time Management Workshop
-    ► Sustainable Design - Exploring Career Options in Engineering and Science (ECOES) Summer Program
+    - Sustainable Design - Exploring Career Options in Engineering and Science (ECOES) Summer Program
 
 **Research and Development Engineer (Intern)** | _Arcmed Group, USA_ | May 2023 – Aug 2023
   - Performed life cycle assessment for micro-pumps and comparative analysis of the four product configurations.
