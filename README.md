@@ -90,7 +90,7 @@ Address: Jersey City, NJ, United States
 ---
 **B.Eng. (Hons) in Mechanical Engineering** | [Coventry University](https://www.coventry.ac.uk/), UK | Jan 2011 - Dec 2013
 ![Bachelors Degree](/assets/img/Bachelors.jpg)
-  - GPA 4.00 (First Class with Honors)
+  - GPA 4.00 (First Class with Honours)
   - Selected Courses:
     - Solid Mechanics
     - Thermofluids Mechanics
