@@ -65,7 +65,7 @@ Address: Jersey City, NJ, United States
       - Title: “Holistic sustainability management framework for complex engineering design systems.”
       - Advisor: Dr. Roshanak Nilchiani
       - Abstract:
-
+---
 **M.Sc. in Mechanical Engineering** | [Gdańsk University of Technology](https://pg.edu.pl/en), PL | Feb 2014 - Dec 2015
 ![Masters Degree](/assets/img/Masters.jpg)
   - GPA 4.00
@@ -86,7 +86,8 @@ Address: Jersey City, NJ, United States
   - Advisor: Dr. hab. inż. Jacek Łubiński
   - Abstract: This research aimed to design a new robotic hand by considering the safety and manufacturing function, but with higher quality and higher efficiency, by changing the mechanism to be a mass production product and reducing the irrecoverable injuries. In addition, this product can be installed on industrial robots to grasp objects and object movements. A three-fingered robotic hand was designed using SolidWorks software, and the final product was assembled using three sub-assemblies. The CAD model of the product was analyzed in terms of motion (Rigid Dynamics), grasp, and static structural analysis in ANSYS software. The motion and grasp analysis showed that the newly selected mechanism can function, and the three fingers can grasp and hold differently shaped and sized objects. Pressure sensors were utilized in this project to gain better accuracy regarding pressure applied by robotic fingers. The static structural analysis showed the stress distributed on the critical components in worst-case scenarios, and all the components were safe. The robotic hand also has an arm base that can be extended to reach objects at higher distances.
 ![Robotic Hand](/assets/img/rhand.png)
-    
+
+---
 **B.Eng. (Hons) in Mechanical Engineering** | [Coventry University](https://www.coventry.ac.uk/), UK | Jan 2011 - Dec 2013
 ![Bachelors Degree](/assets/img/Bachelors.jpg)
   - GPA 4.00 (First Class with Honors)
