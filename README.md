@@ -8,9 +8,9 @@ Address: Jersey City, NJ, United States
 ## Skills
 **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX
 
-**CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, Onshape, SolidEdge
+**CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, PTC Creo, Onshape, SolidEdge 
 
-**Other Software:** Tableau, PowerBI, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Microsoft (Project, Excel, Word, Outlook, Access)
+**Other Software:** Tableau, PowerBI, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Ecochain, Gephi, Microsoft (Project, Excel, Word, Outlook, Access)
 
 **Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility. 
 
@@ -138,8 +138,8 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 
 ---
 ## Awards
-- Design Theory and Methodology Poster Session Award | ASME (2022 & 2023)
-- Computer and Information in Engineering Poster Session Award | ASME (2023)
+- Design Theory and Methodology Poster Session Award | ASME-IDETC (2022 & 2023)
+- Computer and Information in Engineering Poster Session Award | ASME-IDETC (2023)
 - Provost’s Doctoral Fellowship | Stevens Institute of Technology (2022)
 - Master of Science in Engineering Grant | Gdańsk University of Technology (2014)
 - Dean’s List Award Bachelor of Engineering (Hons) | Coventry University (2011)
