@@ -7,7 +7,9 @@ description: Ph.D. Candidate in Engineering Management with M.Sc. in Mechanical 
 # remote_theme: pages-themes/architect@v0.2.0
 # theme: jekyll-theme-dinky
 # theme: jekyll-theme-tactile
-theme: jekyll-theme-midnight
+# theme: jekyll-theme-midnight
+theme: jekyll-theme-modernist
+
 
 
 
