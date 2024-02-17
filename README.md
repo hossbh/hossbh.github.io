@@ -65,7 +65,7 @@ Address: Jersey City, NJ, United States
       - Advisor: Dr. Roshanak Nilchiani
       - Abstract:
 
-**M.Sc. in Mechanical Engineering** | [Gdańsk University of Technology](https://pg.edu.pl/en), PL_ | Feb 2014 - Dec 2015
+**M.Sc. in Mechanical Engineering** | [Gdańsk University of Technology](https://pg.edu.pl/en), PL | Feb 2014 - Dec 2015
   - GPA 4.00
   - Specialization: Design Engineering
   - Selected Courses:
@@ -84,7 +84,7 @@ Address: Jersey City, NJ, United States
   - Advisor: Dr. hab. inż. Jacek Łubiński
   - Abstract:
     
-**B.Eng. (Hons) in Mechanical Engineering** | [Coventry University](https://www.coventry.ac.uk/), UK_ | Jan 2011 - Dec 2013
+**B.Eng. (Hons) in Mechanical Engineering** | [Coventry University](https://www.coventry.ac.uk/), UK | Jan 2011 - Dec 2013
   - GPA 4.00 ( First Class with Honors)
   - Selected Courses:
     - Solid Mechanics
