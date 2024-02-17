@@ -28,24 +28,24 @@ Address: Jersey City, NJ, United States
     - Strategic Planning and Time Management Workshop
     - Sustainable Design - Exploring Career Options in Engineering and Science (ECOES) Summer Program
 
-**Research and Development Engineer (Intern)** | _Arcmed Group, USA_ | May 2023 – Aug 2023
+**Research and Development Engineer (Intern)** | [Arcmed Group](https://www.arcmedgroup.com/), USA | May 2023 – Aug 2023
   - Performed life cycle assessment for micro-pumps and comparative analysis of the four product configurations.
   - Generated new product development procedures and implemented sustainable design principles in R&D.
   - Developed sustainable engineering design procedures and continuous improvement for existing products.
 
-**Validation and Qualification Expert** | _Pania Validation Group, Iran_ | Apr 2017 – Dec 2021
+**Validation and Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran_ | Apr 2017 – Dec 2021
   - Developed validation master plans (VMP) and led a team of four engineers in the qualification of manufacturing equipment, cleanrooms, water systems, HVAC, and processes of pharmaceutical companies.
   - Generated qualification protocols and reports according to international standards (ISO, GMP, WHO, ISPE, PIC/S).
   - Utilized risk analysis and risk management methods to identify and rectify possible contamination risks in pharmaceutical manufacturing processes.
 
-**Product and Manufacturing Engineer** | _Ezam Automotive Parts Group, Iran_ | Feb 2016 – Mar 2017
+**Product and Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran_ | Feb 2016 – Mar 2017
   - Managed projects in product development in automotive steering systems and shock absorbers utilizing advanced product quality planning (APQP).
   - Designed, modeled, and analyzed automotive parts to document finite element analysis (FEA) and failure mode and effect analysis (FMEA) reports.
   - Managed cross-functional teams to identify bottlenecks and optimize manufacturing and assembly of products.
 
 ---
 ## Education
-**Ph.D. in Engineering Management** | _Stevens Institute of Technology, USA_ | Jan 2022 – Anticipated Dec 2024
+**Ph.D. in Engineering Management** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 – Anticipated Dec 2024
   - GPA 4.00
   - Selected Courses:
     - Systems Modeling and Simulation
@@ -65,7 +65,7 @@ Address: Jersey City, NJ, United States
       - Advisor: Dr. Roshanak Nilchiani
       - Abstract:
 
-**M.Sc. in Mechanical Engineering** | _Gdańsk University of Technology, PL_ | Feb 2014 - Dec 2015
+**M.Sc. in Mechanical Engineering** | [Gdańsk University of Technology](https://pg.edu.pl/en), PL_ | Feb 2014 - Dec 2015
   - GPA 4.00
   - Specialization: Design Engineering
   - Selected Courses:
@@ -84,7 +84,7 @@ Address: Jersey City, NJ, United States
   - Advisor: Dr. hab. inż. Jacek Łubiński
   - Abstract:
     
-**B.Eng. (Hons) in Mechanical Engineering** | _Coventry University, UK_ | Jan 2011 - Dec 2013
+**B.Eng. (Hons) in Mechanical Engineering** | [Coventry University](https://www.coventry.ac.uk/), UK_ | Jan 2011 - Dec 2013
   - GPA 4.00 ( First Class with Honors)
   - Selected Courses:
     - Solid Mechanics
