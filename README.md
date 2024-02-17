@@ -16,7 +16,7 @@ Address: Jersey City, NJ, United States
 
 ---
 ## Experience
-**Research and Teaching Assistant** | [_Stevens Institute of Technology](https://www.stevens.edu/), USA_ | Jan 2022 - Present
+**Research and Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
   - Applying systems engineering and machine learning methods to manage complexity in mechanical design systems.
   - Investigating life cycle assessment (LCA) and design for sustainability (DfS) methods to enable simultaneous consideration of environmental, social, and economic sustainability in product development.
   - Teaching assistant:
