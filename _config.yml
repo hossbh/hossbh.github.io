@@ -4,4 +4,6 @@ description: Ph.D. Candidate in Engineering Management with M.Sc. in Mechanical 
 # show_downloads: true
 # theme: jekyll-theme-minimal
 # theme: jekyll-theme-cayman
-remote_theme: pages-themes/architect@v0.2.0
+# remote_theme: pages-themes/architect@v0.2.0
+theme: jekyll-theme-dinky
+
