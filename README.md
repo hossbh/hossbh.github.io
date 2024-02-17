@@ -65,6 +65,7 @@ Address: Jersey City, NJ, United States
       - Title: “Holistic sustainability management framework for complex engineering design systems.”
       - Advisor: Dr. Roshanak Nilchiani
       - Abstract:
+
 ---
 **M.Sc. in Mechanical Engineering** | [Gdańsk University of Technology](https://pg.edu.pl/en), PL | Feb 2014 - Dec 2015
 ![Masters Degree](/assets/img/Masters.jpg)
@@ -153,16 +154,16 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 
 ---
 ## Volunteering
-- Doctoral Students Representative in Graduate Curriculum Committee | 2023 - 2024
+- Doctoral Students Representative in Graduate Curriculum Committee (2023 - 2024)
     - Meeting with the committee to propose, discuss, and vote on curriculum updates (new courses, new graduate programs,
 changes to curriculum, etc.).
 
-- Doctoral Students Representative in Dean’s Advisory Board | 2023 - 2024
+- Doctoral Students Representative in Dean’s Advisory Board (2023 - 2024)
     - Meet and work with the Dean to discuss program/community concerns and ideas for improvement and help grow and unite the community.
     
-- Sustainable Design Expert for Jersey City Public Schools | Aug 2023
+- Sustainable Design Expert for Jersey City Public Schools (Aug 2023)
     - Sustainable Design High School STEAM Challenge Summer Program.
     
-- Ph.D. Peer Mentor Program | 2022 - 2024
+- Ph.D. Peer Mentor Program (2022 - 2024)
     - Assist new students in making an easy transition to Ph.D. programs and Strategic Planning workshops for new doctoral students. 
 
