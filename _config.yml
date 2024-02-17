@@ -2,4 +2,6 @@ title: Hossein Basereh Taramsari
 logo: /assets/img/CR.png
 description: Ph.D. Candidate in Engineering Management with M.Sc. in Mechanical Engineering
 # show_downloads: true
-theme: jekyll-theme-cayman
+# theme: jekyll-theme-minimal
+# theme: jekyll-theme-cayman
+remote_theme: pages-themes/architect@v0.2.0
