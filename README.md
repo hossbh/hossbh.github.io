@@ -42,6 +42,9 @@ Address: Jersey City, NJ, United States
   - Managed projects in product development in automotive steering systems and shock absorbers utilizing advanced product quality planning (APQP).
   - Designed, modeled, and analyzed automotive parts to document finite element analysis (FEA) and failure mode and effect analysis (FMEA) reports.
   - Managed cross-functional teams to identify bottlenecks and optimize manufacturing and assembly of products.
+  - Project: Analysis and Design of New Hydraulic Power Steering System, 2016
+    - Summary: As a product and manufacturing engineer at Ezam Automotive Parts Group, the company designed, manufactured, and assembled hydraulic steering systems for automotive companies; this project aimed to analyze and design a new product model for a new vehicle manufactured by an automotive company that was planning to introduce it to the market. By creating a cross-functional team, the duties were divided into different departments, and considering the design criteria and user requirements set for the product, the CAD model of the steering system and its components were generated, and the model was analyzed to be tested in the worst-case scenarios and check if the designed model complies with the user requirements. Prototypes were manufactured and tested according to international standards; the final product was assembled on the vehicle. Then, optimizations were performed using the collected testing data to improve the product's quality. This newly designed hydraulic steering system has a higher endurance than other products in this class and was successfully launched.
+![New HPS](/assets/img/nhps.png)
 
 ---
 ## Education
