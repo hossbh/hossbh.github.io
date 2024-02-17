@@ -16,7 +16,7 @@ Address: Jersey City, NJ, United States
 
 ---
 ## Experience
-**Research and Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
+**Research & Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
   - Applying systems engineering and machine learning methods to manage complexity in mechanical design systems.
   - Investigating life cycle assessment (LCA) and design for sustainability (DfS) methods to enable simultaneous consideration of environmental, social, and economic sustainability in product development.
   - Teaching assistant:
@@ -28,17 +28,17 @@ Address: Jersey City, NJ, United States
     - Strategic Planning and Time Management Workshop
     - Sustainable Design - Exploring Career Options in Engineering and Science (ECOES) Summer Program
 
-**Research and Development Engineer (Intern)** | [Arcmed Group](https://www.arcmedgroup.com/), USA | May 2023 – Aug 2023
+**Research & Development Engineer (Intern)** | [Arcmed Group](https://www.arcmedgroup.com/), USA | May 2023 – Aug 2023
   - Performed life cycle assessment for micro-pumps and comparative analysis of the four product configurations.
   - Generated new product development procedures and implemented sustainable design principles in R&D.
   - Developed sustainable engineering design procedures and continuous improvement for existing products.
 
-**Validation and Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran | Apr 2017 – Dec 2021
+**Validation & Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran | Apr 2017 – Dec 2021
   - Developed validation master plans (VMP) and led a team of four engineers in the qualification of manufacturing equipment, cleanrooms, water systems, HVAC, and processes of pharmaceutical companies.
   - Generated qualification protocols and reports according to international standards (ISO, GMP, WHO, ISPE, PIC/S).
   - Utilized risk analysis and risk management methods to identify and rectify possible contamination risks in pharmaceutical manufacturing processes.
 
-**Product and Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran | Feb 2016 – Mar 2017
+**Product & Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran | Feb 2016 – Mar 2017
   - Managed projects in product development in automotive steering systems and shock absorbers utilizing advanced product quality planning (APQP).
   - Designed, modeled, and analyzed automotive parts to document finite element analysis (FEA) and failure mode and effect analysis (FMEA) reports.
   - Managed cross-functional teams to identify bottlenecks and optimize manufacturing and assembly of products.
