@@ -33,12 +33,12 @@ Address: Jersey City, NJ, United States
   - Generated new product development procedures and implemented sustainable design principles in R&D.
   - Developed sustainable engineering design procedures and continuous improvement for existing products.
 
-**Validation and Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran_ | Apr 2017 – Dec 2021
+**Validation and Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran | Apr 2017 – Dec 2021
   - Developed validation master plans (VMP) and led a team of four engineers in the qualification of manufacturing equipment, cleanrooms, water systems, HVAC, and processes of pharmaceutical companies.
   - Generated qualification protocols and reports according to international standards (ISO, GMP, WHO, ISPE, PIC/S).
   - Utilized risk analysis and risk management methods to identify and rectify possible contamination risks in pharmaceutical manufacturing processes.
 
-**Product and Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran_ | Feb 2016 – Mar 2017
+**Product and Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran | Feb 2016 – Mar 2017
   - Managed projects in product development in automotive steering systems and shock absorbers utilizing advanced product quality planning (APQP).
   - Designed, modeled, and analyzed automotive parts to document finite element analysis (FEA) and failure mode and effect analysis (FMEA) reports.
   - Managed cross-functional teams to identify bottlenecks and optimize manufacturing and assembly of products.
