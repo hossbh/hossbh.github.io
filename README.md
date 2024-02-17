@@ -98,8 +98,9 @@ Address: Jersey City, NJ, United States
     - Design Principles and Practice
     - Instrumentation and Control
   - Thesis: “Design and fabrication of a mechanical hand.”
-  - Advisor: Mr. Harris Wayhudi
-  - Abstract:
+  - Advisor: Mr. Harris Wahyudi
+  - Abstract: The project aimed to design a mechanical hand to replace the human hand in dangerous workplaces such as manufacturing lines (working with machines) or laboratories. The objective was to design a five-fingered hand with a completely mechanical mechanism that can be connected to the human hand and move objects of different sizes and high strength. Different materials were proposed, and the most efficient material was chosen by considering requirements and constraints. The prototype of the designed mechanical hand was fabricated and experimented in terms of strength, heat, and motion. The CAD model of the mechanical hand's critical components was also simulated using ANSYS software, and mathematical calculations regarding the finite element method were performed to compare the results and increase their accuracy. The final product met the objective set for this project, and the new mechanical hand design can protect the human hand and reduce irrecoverable injuries during work, resisting high stress and temperature.
+  - 
 
 ---
 ## Publications
