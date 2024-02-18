@@ -41,17 +41,17 @@ Address: Jersey City, NJ, United States
 - Sustainable Design - Exploring Career Options in Engineering and Science (ECOES) Summer Program
 
 **Research & Development Engineer (Intern)** | [Arcmed Group](https://www.arcmedgroup.com/), USA | May 2023 – Aug 2023
-### Conducted life cycle assessment for micro-pumps, leading to more than 10% reduction in environmental impact across four different product configurations.
-### Implemented new product development procedures, enhancing the sustainable design in R&D practices by 13%.
+- Conducted life cycle assessment for micro-pumps, leading to more than 10% reduction in environmental impact across four different product configurations.
+- Implemented new product development procedures, enhancing the sustainable design in R&D practices by 13%.
 
 **Validation & Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran | Apr 2017 – Dec 2021
-### Developed validation master plans (VMP) and led a team of four engineers in the qualification of manufacturing equipment, cleanrooms, water systems, HVAC, and processes of pharmaceutical companies.
-### Generated qualification protocols and reports in compliance with international standards (ISO, GMP, WHO, ISPE, PIC/S), resulting in a 20% increase in regulatory adherence.
-### Reduced potential contamination risks in pharmaceutical manufacturing processes by more than 15% through effective risk analysis and management methods.
+- Developed validation master plans (VMP) and led a team of four engineers in the qualification of manufacturing equipment, cleanrooms, water systems, HVAC, and processes of pharmaceutical companies.
+- Generated qualification protocols and reports in compliance with international standards (ISO, GMP, WHO, ISPE, PIC/S), resulting in a 20% increase in regulatory adherence.
+- Reduced potential contamination risks in pharmaceutical manufacturing processes by more than 15% through effective risk analysis and management methods.
 
 **Product & Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran | Feb 2016 – Mar 2017
-### Managed product development projects utilizing advanced product quality planning (APQP), resulting in an 18% quality improvement of automotive steering systems.
-### Conducted finite element analysis (FEA), failure mode and effect analysis (FMEA), and addressed bottlenecks in manufacturing and assembly processes, leading to a 15% reduction in product failure rates.
+- Managed product development projects utilizing advanced product quality planning (APQP), resulting in an 18% quality improvement of automotive steering systems.
+- Conducted finite element analysis (FEA), failure mode and effect analysis (FMEA), and addressed bottlenecks in manufacturing and assembly processes, leading to a 15% reduction in product failure rates.
 
 ---
 ## Education
