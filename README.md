@@ -74,7 +74,7 @@ Address: Jersey City, NJ, United States
 ---
 ## Education
 **Ph.D. in Engineering Management** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 – Anticipated Dec 2024
-####
+  - Remark: All my course and research requirements will be completed by May 14, 2024, and I plan to have my dissertation defense in December 2024.
   - GPA 4.00
   - Selected Courses:
     - Systems Modeling and Simulation
@@ -97,7 +97,7 @@ Address: Jersey City, NJ, United States
 ---
 **M.Sc. in Mechanical Engineering** | [Gdańsk University of Technology](https://pg.edu.pl/en), PL | Feb 2014 - Dec 2015
 
-#### ![Masters Degree](/assets/img/Masters.jpg)
+![Masters Degree](/assets/img/Masters.jpg)
 
   - GPA 4.00
   - Specialization: Design Engineering
