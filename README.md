@@ -70,7 +70,7 @@ Address: Jersey City, NJ, United States
 
 - Managed product development projects utilizing advanced product quality planning (APQP), resulting in an 18% quality improvement of automotive steering systems.
 - Conducted finite element analysis (FEA), failure mode and effect analysis (FMEA), and addressed bottlenecks in manufacturing and assembly processes, leading to a 15% reduction in product failure rates.
-
+# ![HPS](/assets/img/nhps.png)
 ---
 ## Education
 **Ph.D. in Engineering Management** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 – Anticipated Dec 2024
