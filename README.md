@@ -20,7 +20,7 @@ Address: Jersey City, NJ, United States
 
 **Graduate Research and Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
 
-### Research Assistant:
+#### Research Assistant:
 
 - Enhanced the sustainability of engineering design systems by developing a random forest ML model to predict sustainable materials with 81% accuracy.
 - Summary: As CAD models evolve to meet significant engineering challenges, the material selection process of these models remains a critical step, requiring diverse knowledge to balance mechanical, economic, and environmental considerations. This research introduces a novel approach that leverages machine learning methods to predict the material category of 3D-designed parts. Focusing on Fusion 360 assembly data comprising 8,251 assemblies and 154,468 parts, the research explores the possibility of finding the associated material category of 3D CAD models based on their given geometrical and assembly data. The methodology section outlines a two-phase approach, encompassing data collection and the development of a machine learning prediction model. The data set's comprehensive structure, including assembly hierarchies, joints, contacts, and other physical properties, is detailed. The cleaning process ensures data accuracy and consistency, classifying material categories into seven types. Multiple machine learning algorithms are implemented and compared based on their performances to ensure the highest accuracy and avoid overfitting and underfitting of the model. The feature selection and hyper-parameters tuning processes were also included to achieve iterative improvement of the model. The results provided show that the final random forest model can achieve 81% accuracy in predicting the material categories for the CAD models.
@@ -33,7 +33,7 @@ Address: Jersey City, NJ, United States
 ![LCA Model 1](/assets/img/LC1.png)
 ![LCA Model 2](/assets/img/LC2.png)
 
-### Teaching Assistant:
+#### Teaching Assistant:
 - Systems Modeling and Simulation
 - Decision and Risk Analysis
 - Dynamic Modeling of Systems and Enterprises
@@ -44,17 +44,23 @@ Address: Jersey City, NJ, United States
 
 **Research & Development Engineer (Intern)** | [Arcmed Group](https://www.arcmedgroup.com/), USA | May 2023 – Aug 2023
 
-### Research Assistant:
+#### Responsibilities and Projects:
 
 - Conducted life cycle assessment for micro-pumps, leading to more than 10% reduction in environmental impact across four different product configurations.
 - Implemented new product development procedures, enhancing the sustainable design in R&D practices by 13%.
 
 **Validation & Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran | Apr 2017 – Dec 2021
+
+#### Responsibilities and Projects:
+
 - Developed validation master plans (VMP) and led a team of four engineers in the qualification of manufacturing equipment, cleanrooms, water systems, HVAC, and processes of pharmaceutical companies.
 - Generated qualification protocols and reports in compliance with international standards (ISO, GMP, WHO, ISPE, PIC/S), resulting in a 20% increase in regulatory adherence.
 - Reduced potential contamination risks in pharmaceutical manufacturing processes by more than 15% through effective risk analysis and management methods.
 
 **Product & Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran | Feb 2016 – Mar 2017
+
+#### Responsibilities and Projects:
+
 - Managed product development projects utilizing advanced product quality planning (APQP), resulting in an 18% quality improvement of automotive steering systems.
 - Conducted finite element analysis (FEA), failure mode and effect analysis (FMEA), and addressed bottlenecks in manufacturing and assembly processes, leading to a 15% reduction in product failure rates.
 
