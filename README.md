@@ -74,6 +74,7 @@ Address: Jersey City, NJ, United States
 ---
 ## Education
 **Ph.D. in Engineering Management** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 – Anticipated Dec 2024
+####
   - GPA 4.00
   - Selected Courses:
     - Systems Modeling and Simulation
@@ -95,7 +96,9 @@ Address: Jersey City, NJ, United States
 
 ---
 **M.Sc. in Mechanical Engineering** | [Gdańsk University of Technology](https://pg.edu.pl/en), PL | Feb 2014 - Dec 2015
-![Masters Degree](/assets/img/Masters.jpg)
+
+#### ![Masters Degree](/assets/img/Masters.jpg)
+
   - GPA 4.00
   - Specialization: Design Engineering
   - Selected Courses:
@@ -117,7 +120,9 @@ Address: Jersey City, NJ, United States
 
 ---
 **B.Eng. (Hons) in Mechanical Engineering** | [Coventry University](https://www.coventry.ac.uk/), UK | Jan 2011 - Dec 2013
-![Bachelors Degree](/assets/img/Bachelors.jpg)
+
+#### ![Bachelors Degree](/assets/img/Bachelors.jpg)
+
   - GPA 4.00 (First Class with Honours)
   - Selected Courses:
     - Solid Mechanics
