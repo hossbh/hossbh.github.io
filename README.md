@@ -54,7 +54,6 @@ Address: Jersey City, NJ, United States
 
 - Conducted life cycle assessment for micro-pumps, leading to more than 10% reduction in environmental impact across four different product configurations.
 - Implemented new product development procedures, enhancing the sustainable design in R&D practices by 13%.
-- Summary: 
 # ![Micro Pump](/assets/img/Mpump.png)
 
 **Validation & Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran | Apr 2017 – Dec 2021
