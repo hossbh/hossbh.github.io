@@ -6,7 +6,7 @@ Address: Jersey City, NJ, United States
 
 ---
 ## Skills
-**Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX 
+**Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, nltk, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX 
 
 **CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, PTC Creo, SolidEdge
 
