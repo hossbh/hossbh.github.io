@@ -43,6 +43,9 @@ Address: Jersey City, NJ, United States
 - Sustainable Design - Exploring Career Options in Engineering and Science (ECOES) Summer Program
 
 **Research & Development Engineer (Intern)** | [Arcmed Group](https://www.arcmedgroup.com/), USA | May 2023 – Aug 2023
+
+### Research Assistant:
+
 - Conducted life cycle assessment for micro-pumps, leading to more than 10% reduction in environmental impact across four different product configurations.
 - Implemented new product development procedures, enhancing the sustainable design in R&D practices by 13%.
 
