@@ -187,19 +187,21 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 
 ---
 ## Volunteering
-- Coordinator of School of Systems and Enterprises (SSE) Ph.D. Seminars (2022 - 2023)
-    - Weekly seminars for Ph.D. students to share their latest research and progress and get feedback.
-
-- Doctoral Students Representative in Graduate Curriculum Committee (2023 - 2024)
+- Doctoral Students Representative in Graduate Curriculum Committee (2023-2024)
     - Meeting with the committee to propose, discuss, and vote on curriculum updates (new courses, new graduate programs,
 changes to curriculum, etc.).
 
-- Doctoral Students Representative in Dean’s Advisory Board (2023 - 2024)
+- Doctoral Students Representative in Dean’s Advisory Board (2023-2024)
     - Meet and work with the Dean to discuss program/community concerns and ideas for improvement and help grow and unite the community.
     
 - Sustainable Design Expert for Jersey City Public Schools (Aug 2023)
     - Sustainable Design High School STEAM Challenge Summer Program.
     
-- Ph.D. Peer Mentor Program (2022 - 2024)
-    - Assist new students in making an easy transition to Ph.D. programs and Strategic Planning workshops for new doctoral students. 
+- Ph.D. Peer Mentor Program (2022-2024)
+    - Assist new students in making an easy transition to Ph.D. programs and Strategic Planning workshops for new doctoral students.
 
+- Coordinator of School of Systems and Enterprises (SSE) Ph.D. Seminars (2022-2023)
+    - Weekly seminars for Ph.D. students to share their latest research and progress and get feedback.
+
+- Vice President of the Mechanical Engineering Society at Coventry University (2012-2013)
+    - Arranged meetings and activities (poster sessions, field trips, workshops) for the mechanical engineering school members. 
