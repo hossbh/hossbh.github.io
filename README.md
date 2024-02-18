@@ -30,7 +30,12 @@ Address: Jersey City, NJ, United States
 - Integrated life cycle assessment (LCA) and design for sustainability (DfS) methods, achieving a 25% environmental, social, and economic sustainability improvement.
 - Summary: Sustainable product design addresses sustainability challenges through product development processes and tools. The number of sustainable design methods has been increasing rapidly in recent years, but their adoption is limited, and many of these methods exclusively focus on the environmental impacts of products rather than taking a holistic perspective that includes social and economic sustainability. This research provides a holistic, sustainable design framework by integrating change propagation methods and sustainable design tools to enable simultaneous consideration of design parameters' impacts on the three dimensions of sustainability. A reusable water bottle is used to demonstrate the application of the proposed holistic sustainable design (HSD) framework. A multi-domain matrix (MDM) is used to capture the interdependencies among these design parameters of the product, and then equations are defined to quantify them. Life cycle assessment (LCA) is then automated to evaluate the product's environmental impacts, and the investigation of its results provides details to identify critical unit processes contributing to the environmental categories. Sensitivity analyses reveal how changes to individual design parameters propagate through the model to influence the three dimensions of sustainability. Ultimately, the designer can select optimal design parameter values that can balance environmental, social, and economic sustainability.
 
-# ![LCA Model 1](/assets/img/LCA.png)
+# ![LCA Model](/assets/img/LCA.png)
+
+- Implemented a novel systems thinking approach toward new product development and interviewed field experts to generate a causal loop diagram (CLD), leading to understanding the reinforcing and balancing loops within the system.
+- Summary: Sustainable product design requires new perspectives and methods to achieve environmental, social, and economic success. The multi-agent, multi-variable, complex environment in which stakeholders of a product coexist creates a complex system, which is known as the wicked problem of sustainability. This article aims to generate a systems understanding of the forces and dynamics underlying the wicked problem of sustainable design by applying systems thinking methods to design a relatively simple product: a reusable water bottle. The design variables and the product's life cycle stages are systematically identified and mapped out. The dynamic relationships among these variables and the key stakeholders are formulated into a causal loop diagram (CLD), with directions of change identified to form balancing and reinforcing loops. To validate the CLD representation, interviews with systems thinking experts are conducted to solicit feedback and input to create a more complete system dynamics understanding and framing of the sustainable design of a reusable water bottle. This systems approach highlights the complexities and critical drivers involved or introduced into sustainable product design, in addition to the level of simplicity and complexity of the product. The findings provide a new comprehensive sustainable product design system representation with implications for product development practice, corporate strategy, and public policy.
+
+# ![CLD](/assets/img/CLD.png)
 
 #### Teaching Assistant:
 - Systems Modeling and Simulation
@@ -48,7 +53,7 @@ Address: Jersey City, NJ, United States
 - Conducted life cycle assessment for micro-pumps, leading to more than 10% reduction in environmental impact across four different product configurations.
 - Implemented new product development procedures, enhancing the sustainable design in R&D practices by 13%.
 - Summary: 
-![Micro Pump](/assets/img/Mpump.png)
+# ![Micro Pump](/assets/img/Mpump.png)
 
 **Validation & Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran | Apr 2017 – Dec 2021
 
@@ -57,6 +62,7 @@ Address: Jersey City, NJ, United States
 - Developed validation master plans (VMP) and led a team of four engineers in the qualification of manufacturing equipment, cleanrooms, water systems, HVAC, and processes of pharmaceutical companies.
 - Generated qualification protocols and reports in compliance with international standards (ISO, GMP, WHO, ISPE, PIC/S), resulting in a 20% increase in regulatory adherence.
 - Reduced potential contamination risks in pharmaceutical manufacturing processes by more than 15% through effective risk analysis and management methods.
+# ![Qual](/assets/img/qual.png)
 
 **Product & Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran | Feb 2016 – Mar 2017
 
