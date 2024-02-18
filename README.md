@@ -6,9 +6,9 @@ Address: Jersey City, NJ, United States
 
 ---
 ## Skills
-**Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX
+**Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, LaTeX 
 
-**CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, PTC Creo, Onshape, SolidEdge 
+**CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, PTC Creo, SolidEdge
 
 **Other Software:** Tableau, PowerBI, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Ecochain, Gephi, Microsoft (Project, Excel, Word, Outlook, Access)
 
@@ -16,10 +16,10 @@ Address: Jersey City, NJ, United States
 
 ---
 ## Experience
-**Research & Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
+**Graduate Research and Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
   - Research assistant:
-    - Applying systems engineering and machine learning methods to manage complexity in mechanical design systems.
-    - Investigating life cycle assessment (LCA) and design for sustainability (DfS) methods to enable simultaneous consideration of environmental, social, and economic sustainability in product development.
+    - Enhanced the sustainability of engineering design systems by developing a random forest ML model to predict sustainable materials with 81% accuracy.
+    - Integrated life cycle assessment and design for sustainability methods, achieving a 25% environmental, social, and economic sustainability improvement.
   - Teaching assistant:
     - Systems Modeling and Simulation
     - Decision and Risk Analysis
@@ -30,14 +30,13 @@ Address: Jersey City, NJ, United States
     - Sustainable Design - Exploring Career Options in Engineering and Science (ECOES) Summer Program
 
 **Research & Development Engineer (Intern)** | [Arcmed Group](https://www.arcmedgroup.com/), USA | May 2023 – Aug 2023
-  - Performed life cycle assessment for micro-pumps and comparative analysis of the four product configurations.
-  - Generated new product development procedures and implemented sustainable design principles in R&D.
-  - Developed sustainable engineering design procedures and continuous improvement for existing products.
+  - Conducted life cycle assessment for micro-pumps, leading to more than 10% reduction in environmental impact across four different product configurations.
+  - Implemented new product development procedures, enhancing the sustainable design in R&D practices by 13%.
 
 **Validation & Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran | Apr 2017 – Dec 2021
   - Developed validation master plans (VMP) and led a team of four engineers in the qualification of manufacturing equipment, cleanrooms, water systems, HVAC, and processes of pharmaceutical companies.
-  - Generated qualification protocols and reports according to international standards (ISO, GMP, WHO, ISPE, PIC/S).
-  - Utilized risk analysis and risk management methods to identify and rectify possible contamination risks in pharmaceutical manufacturing processes.
+  - Generated qualification protocols and reports in compliance with international standards (ISO, GMP, WHO, ISPE, PIC/S), resulting in a 20% increase in regulatory adherence.
+  - Reduced potential contamination risks in pharmaceutical manufacturing processes by more than 15% through effective risk analysis and management methods.
 
 **Product & Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran | Feb 2016 – Mar 2017
   - Managed projects in product development in automotive steering systems and shock absorbers utilizing advanced product quality planning (APQP).
