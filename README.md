@@ -187,6 +187,9 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 
 ---
 ## Volunteering
+- Coordinator of School of Systems and Enterprises (SSE) Ph.D. Seminars (2022 - 2023)
+    - Weekly seminars for Ph.D. students to share their latest research and progress and get feedback.
+
 - Doctoral Students Representative in Graduate Curriculum Committee (2023 - 2024)
     - Meeting with the committee to propose, discuss, and vote on curriculum updates (new courses, new graduate programs,
 changes to curriculum, etc.).
