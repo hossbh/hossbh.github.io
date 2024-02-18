@@ -39,9 +39,8 @@ Address: Jersey City, NJ, United States
   - Reduced potential contamination risks in pharmaceutical manufacturing processes by more than 15% through effective risk analysis and management methods.
 
 **Product & Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran | Feb 2016 – Mar 2017
-  - Managed projects in product development in automotive steering systems and shock absorbers utilizing advanced product quality planning (APQP).
-  - Designed, modeled, and analyzed automotive parts to document finite element analysis (FEA) and failure mode and effect analysis (FMEA) reports.
-  - Managed cross-functional teams to identify bottlenecks and optimize manufacturing and assembly of products.
+  - Managed product development projects utilizing advanced product quality planning (APQP), resulting in 18% quality improvement of automotive steering systems.
+  - Conducted finite element analysis (FEA), failure mode and effect analysis (FMEA), and addressed bottlenecks of manufacturing and assembly processes, leading to a 15\% reduction in product failure rates.
 
 ---
 ## Education
