@@ -12,7 +12,7 @@ Address: Jersey City, NJ, United States
 
 **Other Software:** Tableau, PowerBI, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Ecochain, Gephi, Microsoft (Project, Excel, Word, Outlook, Access)
 
-**Engineering:** GD&T, FEA, FMEA, APQP, Six Sigma, Lean, LCA, PLM, CFD, HVAC, Robotics, Additive Manufacturing
+**Engineering:** GD&T, FEA, FMEA, APQP, Optimization, Six Sigma, Lean, LCA, PLM, CFD, HVAC, Robotics, Additive Manufacturing
 
 **Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility. 
 
