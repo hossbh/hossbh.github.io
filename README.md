@@ -173,6 +173,7 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 ## Awards
 - Design Theory and Methodology Poster Session Award | ASME-IDETC (2022 & 2023)
 - Computer and Information in Engineering Poster Session Award | ASME-IDETC (2023)
+![CIE](/assets/img/CIE.png)
 - Provost’s Doctoral Fellowship | Stevens Institute of Technology (2022)
 - Master of Science in Engineering Grant | Gdańsk University of Technology (2014)
 - Dean’s List Award Bachelor of Engineering (Hons) | Coventry University (2011)
@@ -181,6 +182,7 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 ## Memberships
 - [American Society for Engineering Management (ASEM)](https://www.asem.org/)
 - [American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
+![ASME](/assets/img/asme.png)
 - [The American Center for Life Cycle Assessment (ACLCA)](https://aclca.org/)
 - [The International Council on Systems Engineering (INCOSE)](https://www.incose.org/)
 - [The International Society of Transdisciplinary Engineering (ISTE)](https://intsoctransde.org/)
