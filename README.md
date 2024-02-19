@@ -209,4 +209,4 @@ changes to curriculum, etc.).
     - Weekly seminars for Ph.D. students to share their latest research and progress and get feedback.
 
 - Vice President of the Mechanical Engineering Society at Coventry University (2012-2013)
-    - Arranged meetings and activities (poster sessions, field trips, workshops) for the mechanical engineering school members. 
+    - Arranged meetings and activities (company visits, poster sessions, and workshops) for the mechanical engineering school members. 
