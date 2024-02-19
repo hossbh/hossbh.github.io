@@ -42,6 +42,20 @@ Address: Jersey City, NJ, United States
 
 # ![CLD](/assets/img/CLD.png)
 
+
+#### Project: A Survey Study Identifying the Characteristics of Sustainable Design System
+
+#### Project: Identification of Variables Impacting Cascading Failures in Aerospace Systems: A Natural Language Processing Approach
+
+#### Project: Measuring Technology Aging and Contextual Relevance in Complex Legacy Systems: Beyond Technology Readiness Level 9
+
+#### Project: Decision Support System Utilizing Multi-Attribute Utility Theory: Find My Beer
+
+#### Project: European and North American Migration Network Analysis: Gini Index and Political Regimes
+
+#### Project: NYC Stopped and Frisked Data Analytics and Visualizations
+
+
 #### Teaching Assistant:
 - Systems Modeling and Simulation
 - Decision and Risk Analysis
