@@ -163,9 +163,6 @@ Address: Jersey City, NJ, United States
 
 ---
 ## Publications
-- Nilchiani, R., Caddel, J., **Basereh Taramsari, H.** (2024) “Beyond Technology Readiness Level 9: Measuring
-Technology Aging and Contextual Relevance in Complex Legacy Systems,” INCOSE 34th Annual International
-Symposium 2024, Dublin, Ireland, July 2-6.
 
 - **Basereh Taramsari, H.**, Rao, B., Nilchiani, R., Lipizzi, C. (2024) “Identification of Variables Impacting Cascading
 Failures in Aerospace Systems: A Natural Language Processing Approach,” Conference on Systems Engineering
