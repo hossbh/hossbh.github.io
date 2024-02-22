@@ -221,7 +221,8 @@ changes to curriculum, etc.).
 
 - Vice President of the Mechanical Engineering Society at Coventry University (2012-2013)
     - Arranged meetings and activities (company visits, poster sessions, and workshops) for the mechanical engineering school members.
- 
+
+---
 ## Other Projects
 #### Project: Decision Support System Utilizing Multi-Attribute Utility Theory: Find My Beer
 #### Project: NYC Stopped and Frisked Data Analytics and Visualizations
