@@ -217,7 +217,7 @@ changes to curriculum, etc.).
     - Assist new students in making an easy transition to Ph.D. programs and Strategic Planning workshops for new doctoral students.
 
 - Coordinator of School of Systems and Enterprises (SSE) Ph.D. Seminars (2022-2023)
-    - Weekly seminars for Ph.D. students to share their latest research and progress and get feedback.
+    - Weekly seminars for Ph.D. students to share their latest research and progress.
 
 - Vice President of the Mechanical Engineering Society at Coventry University (2012-2013)
     - Arranged meetings and activities (company visits, poster sessions, and workshops) for the mechanical engineering school members.
