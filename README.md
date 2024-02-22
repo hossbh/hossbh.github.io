@@ -50,8 +50,6 @@ Address: Jersey City, NJ, United States
 
 #### Project: Identification of Variables Impacting Cascading Failures in Aerospace Systems: A Natural Language Processing Approach
 
-#### Project: Measuring Technology Aging and Contextual Relevance in Complex Legacy Systems: Beyond Technology Readiness Level 9
-
 #### Project: Decision Support System Utilizing Multi-Attribute Utility Theory: Find My Beer
 
 #### Project: European and North American Migration Network Analysis: Gini Index and Political Regimes
@@ -112,8 +110,9 @@ Address: Jersey City, NJ, United States
   
   - Ph.D. Dissertation:
       - Title: “Holistic sustainability management framework for complex engineering design systems.”
-      - Advisor: Dr. Roshanak Nilchiani
-      - Abstract:
+      - Advisor: Dr. Roshanak Nilchiani & Dr. Steven Hoffenson
+      - Abstract: The number of sustainable design methods emerging in recent years has increased due to global environmental concerns. Several proposed methods focus exclusively on the environmental impacts of products rather than taking a holistic perspective that includes social and economic sustainability. Despite the advancements in tools for incorporating sustainability in the product design phase, designers are not universally adopting these tools mainly due to their fragmented or underdeveloped characteristics. This research aims to integrate change propagation and sustainable design tools within a holistic framework that can enable simultaneous consideration of design parameters' impacts on the three dimensions of sustainability. A reusable water bottle is used to demonstrate the application of the proposed holistic, sustainable design framework. The interdependencies among these design parameters are captured using a multi-domain matrix (MDM), and then equations are defined to quantify these dependencies. Life cycle assessment (LCA) is then performed in an automated way to evaluate the product's environmental impacts, and the investigation of its results provides details to identify critical unit processes contributing to the environmental categories. Using this framework, sensitivity analyses are able to reveal how changes to individual design parameters propagate through the model to influence the three dimensions of sustainability.
+![HSDF](/assets/img/HSDF.png)
 
 ---
 **M.Sc. in Mechanical Engineering** | [Gdańsk University of Technology](https://pg.edu.pl/en), PL | Feb 2014 - Dec 2015
