@@ -48,11 +48,12 @@ Address: Jersey City, NJ, United States
 - Summary: The emergence of new technological advancements increases the complexity level of systems such as those in aerospace, and result in unpredictable behaviours. Systems thinking has been used extensively in current systems engineering practices to conceptualize the problem domain and reveal the underlying patterns in complex systems. Tools such as causal loop diagrams (CLD) along with quantitative techniques such as stock and flow models are implemented towards identifying reinforcing and balancing loops within a system. One of the main challenges in implementation of systems thinking approaches is the subjective aspects of it, in variable identification and causal relationships between them. This research aims to utilize natural language processing (NLP) and data (reports) about problem domains in order to systematically identify variables to assist the domain expert in the generation of a holistic solutions for the complex system. An aircraft accident report data is analyzed in this paper to identify the key variables associated with the cascading failures in aerospace systems. Large language model (LLMs), prompt engineering and topic modelling methods are utilized to provide a detailed understanding of the main variables within these accident reports. The analysis resulted in identifying the critical variables initiating the failure and development of a CLD. The findings highlights the applications of NLP in systems engineering methods and its contribution to the risk assessment of aerospace systems.
 # ![nlp](/assets/img/NLP.png)
 
-#### Project: Decision Support System Utilizing Multi-Attribute Utility Theory: Find My Beer
 
 #### Project: European and North American Migration Network Analysis: Gini Index and Political Regimes
-
-#### Project: NYC Stopped and Frisked Data Analytics and Visualizations
+- Summary: The study of human migration patterns and their socio-economic impacts is essential in the current state of the world. These migrations have increased with the globalization over the past decade. The push and pull factors that influence these migration patterns have not been studied through the lens of social network analysis. This research utilizes social network analysis methods to reveal the economic and political impacts on migrations by focusing on European and North American countries. The UN migration data are used along with the World Bank’s Gini index data to capture
+the economic aspects of the network. In addition, the regimes of the world categorization is used to investigate the impact of political regimes on this migration networks. Social network analysis methods were applied to understand the underlying behaviour of these migrations. The results showed a positive correlation between average centrality score of the nodes in the network and the average Gini index of countries, indicating the high migration to countries with lower income equality. Moreover, a positive correlation exists between average centrality and liberal democratic countries. The results of this research can guide future policy-making processes toward controlling the migration network.
+# ![net1](/assets/img/net1.png)
+# ![net2](/assets/img/net2.png)
 
 
 #### Teaching Assistant:
@@ -219,4 +220,9 @@ changes to curriculum, etc.).
     - Weekly seminars for Ph.D. students to share their latest research and progress and get feedback.
 
 - Vice President of the Mechanical Engineering Society at Coventry University (2012-2013)
-    - Arranged meetings and activities (company visits, poster sessions, and workshops) for the mechanical engineering school members. 
+    - Arranged meetings and activities (company visits, poster sessions, and workshops) for the mechanical engineering school members.
+ 
+## Other Projects
+#### Project: Decision Support System Utilizing Multi-Attribute Utility Theory: Find My Beer
+#### Project: NYC Stopped and Frisked Data Analytics and Visualizations
+
