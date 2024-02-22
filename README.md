@@ -93,25 +93,25 @@ Address: Jersey City, NJ, United States
 ---
 ## Education
 **Ph.D. in Engineering Management** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 – Anticipated Dec 2024
-  - Remark: All my course and research requirements will be completed by May 14, 2024, and I plan to have my dissertation defense in December 2024.
-  - GPA 4.00
-  - Selected Courses:
-    - Systems Modeling and Simulation
-    - Probability and Statistics
-    - Decision and Risk Analysis
-    - Applied Machine Learning
-    - Project Management of Complex Systems
-    - Dynamic Modeling of Systems and Enterprises
-    - Social Network Analytics and Visualization
-    - Decision Making via Data Analysis
-    - Engineering Economics and Cost Analysis
-    - Elements of Operation Research
-    - Informatics for Engineering Management
+- Remark: All my course and research requirements will be completed by May 14, 2024, and I plan to have my dissertation defense in December 2024.
+- GPA 4.00
+- Selected Courses:
+  - Systems Modeling and Simulation
+  - Probability and Statistics
+  - Decision and Risk Analysis
+  - Applied Machine Learning
+  - Project Management of Complex Systems
+  - Dynamic Modeling of Systems and Enterprises
+  - Social Network Analytics and Visualization
+  - Decision Making via Data Analysis
+  - Engineering Economics and Cost Analysis
+  - Elements of Operation Research
+  - Informatics for Engineering Management
   
-  - Ph.D. Dissertation:
-      - Title: “Holistic sustainability management framework for complex engineering design systems.”
-      - Advisor: Dr. Roshanak Nilchiani & Dr. Steven Hoffenson
-      - Abstract: The number of sustainable design methods emerging in recent years has increased due to global environmental concerns. Several proposed methods focus exclusively on the environmental impacts of products rather than taking a holistic perspective that includes social and economic sustainability. Despite the advancements in tools for incorporating sustainability in the product design phase, designers are not universally adopting these tools mainly due to their fragmented or underdeveloped characteristics. This research aims to integrate change propagation and sustainable design tools within a holistic framework that can enable simultaneous consideration of design parameters' impacts on the three dimensions of sustainability. A reusable water bottle is used to demonstrate the application of the proposed holistic, sustainable design framework. The interdependencies among these design parameters are captured using a multi-domain matrix (MDM), and then equations are defined to quantify these dependencies. Life cycle assessment (LCA) is then performed in an automated way to evaluate the product's environmental impacts, and the investigation of its results provides details to identify critical unit processes contributing to the environmental categories. Using this framework, sensitivity analyses are able to reveal how changes to individual design parameters propagate through the model to influence the three dimensions of sustainability.
+- Ph.D. Dissertation:
+  - Title: “Holistic sustainability management framework for complex engineering design systems.”
+  - Advisor: Dr. Roshanak Nilchiani & Dr. Steven Hoffenson
+  - Abstract: The number of sustainable design methods emerging in recent years has increased due to global environmental concerns. Several proposed methods focus exclusively on the environmental impacts of products rather than taking a holistic perspective that includes social and economic sustainability. Despite the advancements in tools for incorporating sustainability in the product design phase, designers are not universally adopting these tools mainly due to their fragmented or underdeveloped characteristics. This research aims to integrate change propagation and sustainable design tools within a holistic framework that can enable simultaneous consideration of design parameters' impacts on the three dimensions of sustainability. A reusable water bottle is used to demonstrate the application of the proposed holistic, sustainable design framework. The interdependencies among these design parameters are captured using a multi-domain matrix (MDM), and then equations are defined to quantify these dependencies. Life cycle assessment (LCA) is then performed in an automated way to evaluate the product's environmental impacts, and the investigation of its results provides details to identify critical unit processes contributing to the environmental categories. Using this framework, sensitivity analyses are able to reveal how changes to individual design parameters propagate through the model to influence the three dimensions of sustainability.
 ![HSDF](/assets/img/HSDF.png)
 
 ---
