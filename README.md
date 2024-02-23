@@ -227,4 +227,4 @@ Team members: JD, Jingda
 
 
 #### Project: NYC Stopped and Frisked Data Analytics and Visualizations
-
+![stf](/assets/img/STF.png)
