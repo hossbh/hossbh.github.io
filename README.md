@@ -220,6 +220,11 @@ changes to curriculum, etc.).
 
 ---
 ## Other Projects
-#### Project: Decision Support System Utilizing Multi-Attribute Utility Theory: Find My Beer
+#### Project: Decision Support System Utilizing Multi-Attribute Utility Theory: Find My Beer [Link](https://caddell.shinyapps.io/find_my_beer/)
+Summary: This project aimed to develop a novel decision support system (DSS) to help users identify their top five beers. Web-scraping and data cleaning methods were implemented to collect a dataset of more than 6,000 beers, and a multi-attribute utility model was designed to identify the users' preferences. Five attributes were selected: style, alcohol by volume (ABV), international bitterness unit (IBU), rating, and novelty. The utility function implemented could define the user's preferences, and the swing weight method was utilized for each attribute. A Monte Carlo simulation was used for the novelty attribute of the beers. The model can successfully recommend the top five beers based on user preferences. 
+Team members: JD, Jingda
+![beer](/assets/img/beer.png)
+
+
 #### Project: NYC Stopped and Frisked Data Analytics and Visualizations
 
