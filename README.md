@@ -228,4 +228,5 @@ Team members: JD, Jingda
 
 
 #### Project: NYC Stopped and Frisked Data Analytics and Visualizations
+Summary: The NYC stopped and frisk dataset was explored to create a data story presented as a poster. A systematic framework was utilized to clean the data, identify the critical data features, and investigate different aspects of the data. The results highlighted high CPW and CT among black males population who are between 15 and 25 years old in Queens and Brooklyn. 
 ![stf](/assets/img/STF.png)
