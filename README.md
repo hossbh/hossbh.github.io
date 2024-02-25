@@ -83,7 +83,7 @@ Summary: The emergence of new technological advancements increases the complexit
 **Ph.D. in Engineering Management** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 – Anticipated Dec 2024
 - Remark: All my course and research requirements will be completed by May 14, 2024, and I plan to have my dissertation defense in December 2024.
 - GPA 4.00
-- Selected Courses:
+- Courses:
   - Systems Modeling and Simulation
   - Probability and Statistics
   - Decision and Risk Analysis
@@ -108,7 +108,7 @@ Summary: The emergence of new technological advancements increases the complexit
 
   - GPA 4.00
   - Specialization: Design Engineering
-  - Selected Courses:
+  - Courses:
     - Applied Mechanics
     - Contemporary Construction Materials
     - Modeling Methods in Design
@@ -131,7 +131,7 @@ Summary: The emergence of new technological advancements increases the complexit
 #### ![Bachelors Degree](/assets/img/Bachelors.jpg)
 
   - GPA 4.00 (First Class with Honours)
-  - Selected Courses:
+  - Courses:
     - Solid Mechanics
     - Thermofluids Mechanics
     - Analytical Modeling
