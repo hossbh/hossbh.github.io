@@ -213,6 +213,13 @@ changes to curriculum, etc.).
 
 ---
 ## Other Projects
+
+#### Project: Analysis of Sustainable Design Behaviors and Decision-Making Using an Interactive Dashboard
+Summary: This study focuses on the process of product-design tasks utilizing an interactive dashboard. Five groups of student participants were asked to complete the water bottle design. Four metrics are defined, which correspond to the economic, social, and environmental dimensions of sustainability. This study brings perspectives about how behavior in the sustainable product design process can be influenced. To reveal the motivations behind designing behaviors, this study also explores how sustainability attitudes affect designers and interprets the trade-offs in completing final design tasks.
+
+![dash](/assets/img/dash.png)
+
+
 #### Project: European and North American Migration Network Analysis: Gini Index and Political Regimes
 Summary: The study of human migration patterns and their socio-economic impacts is essential in the current state of the world. These migrations have increased with the globalization over the past decade. The push and pull factors that influence these migration patterns have not been studied through the lens of social network analysis. This research utilizes social network analysis methods to reveal the economic and political impacts on migrations by focusing on European and North American countries. The UN migration data are used along with the World Bank’s Gini index data to capture
 the economic aspects of the network. In addition, the regimes of the world categorization are used to investigate the impact of political regimes on these migration networks. Social network analysis methods were applied to understand the underlying behavior of these migrations. The results showed a positive correlation between the average centrality score of the nodes in the network and the average Gini index of countries, indicating the high migration to countries with lower income equality. Moreover, a positive correlation exists between average centrality and liberal democratic countries. The results of this research can guide future policy-making processes toward controlling the migration network.
