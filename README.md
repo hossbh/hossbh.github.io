@@ -45,7 +45,9 @@ Summary: The emergence of new technological advancements increases the complexit
 ![nlp](/assets/img/NLP.png)
 
 
-#### Teaching Assistant:
+#### Graduate Teaching Assistant
+
+Assisting professors with teaching-related tasks, such as preparing lectures, leading discussion sections, grading assignments, and providing academic support to graduate students for the following courses:
 - Systems Modeling and Simulation
 - Decision and Risk Analysis
 - Dynamic Modeling of Systems and Enterprises
