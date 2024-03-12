@@ -29,6 +29,7 @@ Summary: Sustainable product design addresses sustainability challenges through 
 
 #### Project: A Machine Learning Approach for Prediction of Material Categories of 3D CAD Parts
 Summary: The material selection process of components remains a critical design step, requiring diverse knowledge to balance mechanical, economic, and environmental considerations. This research introduces a novel approach that leverages machine learning methods to predict the material category of 3D-designed parts. Focusing on Fusion 360 assembly data comprising 8,251 assemblies and 154,468 parts, the research explores the possibility of finding the associated material category of 3D CAD models based on their given geometrical and assembly data. The methodology section outlines a two-phase approach, encompassing data collection and the development of a machine learning prediction model. The data set's comprehensive structure, including assembly hierarchies, joints, contacts, and other physical properties, is detailed. The cleaning process ensures data accuracy and consistency, classifying material categories into seven types. Multiple machine learning algorithms are implemented and compared based on their performances to provide the highest accuracy and avoid overfitting and underfitting of the model. The feature selection and hyper-parameters tuning processes were also included to achieve iterative improvement of the model. The results provided show that the final random forest model can reach 81% accuracy in predicting the material categories for the CAD models.
+
 ![RF Model](/assets/img/RFmodel.png)
 
 #### Project: A System Dynamics Approach Toward Sustainable Product Design
@@ -215,6 +216,11 @@ changes to curriculum, etc.).
 
 ---
 ## Other Projects
+
+#### Project: Assessing Systemic Drivers and Barriers to Sustainable Design Transitions
+Summary: The sustainable design transition has proven to be a challenging process, in part due to the diverse set of stakeholders, which includes the general public, policymakers, scientific researchers, and businesses.
+In prior work, the interconnected relationships among systematic drivers and barriers for sustainable design were identified and mapped using a causal loop diagram at a relatively abstract level. To further understand and characterize this complex system, this research aims to determine the relationship strength levels among the variables in the system, as indicated by previous research identified in the literature. In addition, the knowledge maturity levels of these identified relationships are specified to illustrate strengths and gaps in the literature. The findings are used to create a refined system representation that demonstrates the power dynamics between systemic driving forces to sustainable design transitions. The results of this work reveal valuable insights about the linkages among the driving forces of sustainable design transitions that can be used as a foundation for further investigation, such as experiments and data analytics that can better quantify these relationships.
+![CLDO](/assets/img/CLDO.png)
 
 #### Project: Analysis of Sustainable Design Behaviors and Decision-Making Using an Interactive Dashboard
 Summary: This study focuses on the process of product-design tasks utilizing an interactive dashboard. Five groups of student participants were asked to complete the water bottle design. Four metrics are defined, which correspond to the economic, social, and environmental dimensions of sustainability. This study brings perspectives about how behavior in the sustainable product design process can be influenced. To reveal the motivations behind designing behaviors, this study also explores how sustainability attitudes affect designers and interprets the trade-offs in completing final design tasks.
