@@ -33,7 +33,7 @@ Summary: The material selection process of components remains a critical design 
 
 #### Project: A Systems Dynamics Approach Toward Sustainable Product Design
 Summary: Sustainable product design requires new perspectives and methods to achieve environmental, social, and economic success. The multi-agent, multi-variable, complex environment in which stakeholders of a product coexist creates a complex system, which is known as the wicked problem of sustainability. This article aims to generate a systems understanding of the forces and dynamics underlying the wicked problem of sustainable design by applying systems thinking methods to design a relatively simple product: a reusable water bottle. The design variables and the product's life cycle stages are systematically identified and mapped out. The dynamic relationships among these variables and the key stakeholders are formulated into a causal loop diagram (CLD), with directions of change identified to form balancing and reinforcing loops. To validate the CLD representation, interviews with systems thinking experts are conducted to solicit feedback and input to create a more complete system dynamics understanding and framing of the sustainable design of a reusable water bottle. This systems approach highlights the complexities and critical drivers involved or introduced into sustainable product design, in addition to the level of simplicity and complexity of the product. The findings provide a new comprehensive sustainable product design system representation with implications for product development practice, corporate strategy, and public policy.
-![STF](/assets/img/STF.png)
+![SDM](/assets/img/SDM.png)
 
 
 #### Project: A Survey Study Identifying the Characteristics of Sustainable Design System
