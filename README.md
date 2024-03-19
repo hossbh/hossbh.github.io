@@ -8,11 +8,11 @@ Address: Jersey City, NJ, United States
 ## Skills
 **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, nltk, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, SQL, LaTeX 
 
-**Engineering:** FEA, GD&T, FMEA, APQP, Optimization, Six Sigma, Lean, LCA, PLM, CFD, HVAC, Robotics, Additive Manufacturing
+**Engineering:** FEA, FMEA, APQP, GD&T, Optimization, Six Sigma, Lean, LCA, PLM, CFD, HVAC, Robotics, Additive Manufacturing
 
 **CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, PTC Creo, SolidEdge
 
-**Other Software:** Tableau, PowerBI, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Ecochain, Gephi, Microsoft (Project, Excel, Word, Outlook, Access)
+**Other Software:** Tableau, PowerBI, Minitab, Vensim, NetLogo, MagicDraw, Github, openLCA, Gabi, Ecochain, Gephi, Microsoft (Project, Excel, Word, Outlook, Access)
 
 **Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility. 
 
