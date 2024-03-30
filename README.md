@@ -7,13 +7,13 @@ Address: Jersey City, NJ, United States
 ---
 ## [Skills](/assets/img/Skills.png)
 
-**Engineering:** FEA, Quality Engineering (APQP, DOE, IQ, OQ, PQ, SPC), Optimization, CI (Six Sigma, Lean, 5S), Risk Management (FMEA, RCA), NPD, Project Management (Waterfall, Agile, CPM), CAD (SolidWorks, Autodesk-Fusion 360, Siemens NX, CATIA, PTC Creo), CAE (ANSYS, COMSOL), CAM (SolidEdge), GD&T, LCA, PLM.
+**Engineering:** FEA, Quality Engineering, Optimization, CI, Risk Management, NPD, Project Management, GD&T, LCA, PLM, CAD (SolidWorks, Autodesk-Fusion 360, Siemens NX, CATIA, PTC Creo), CAE (ANSYS, COMSOL), CAM (SolidEdge)
 
-**Data Science:** Statistics, Machine Learning, NLP, Data Visualization, Data Management, Algorithms, Data Structures, Cloud Computing, Data Wrangling, Version Control
+**Data Science:** Statistics, Machine Learning, NLP, Data Visualization, Data Management, Algorithms, Data Structures, Cloud Computing, Data Wrangling, Version Control (Git)
 
 **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, nltk, bokeh, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, SQL, LaTeX 
 
-**Other Software:** Tableau, PowerBI, Minitab, Vensim, NetLogo, MagicDraw, Git, openLCA, Gabi, Ecochain, Gephi, Microsoft (Project, Excel, Word, Outlook, Access)
+**Other Software:** Tableau, PowerBI, Minitab, Vensim, NetLogo, MagicDraw, openLCA, Gabi, Ecochain, Gephi, Microsoft (Project, Excel, Word, Outlook, Access)
 
 **Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility. 
 
