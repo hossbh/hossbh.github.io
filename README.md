@@ -24,7 +24,7 @@ Address: Jersey City, NJ, United States
 
 #### Research Assistant:
 
-#### Project: [An Integrated Holistic Approach Toward Sustainable Product Design Using Life Cycle Assessment](https://doi.org/10.1115/DETC2023-111608)
+#### Project: An Integrated Holistic Approach Toward Sustainable Product Design Using Life Cycle Assessment
 Summary: Sustainable product design addresses sustainability challenges through product development processes and tools. The number of sustainable design methods has been increasing rapidly in recent years, but their adoption is limited, and many of these methods exclusively focus on the environmental impacts of products rather than taking a holistic perspective that includes social and economic sustainability. This research provides a holistic, sustainable design framework by integrating change propagation methods and sustainable design tools to enable simultaneous consideration of design parameters' impacts on the three dimensions of sustainability. A reusable water bottle is used to demonstrate the application of the proposed holistic sustainable design (HSD) framework. A multi-domain matrix (MDM) is used to capture the interdependencies among these design parameters of the product, and then equations are defined to quantify them. Life cycle assessment (LCA) is then automated to evaluate the product's environmental impacts, and the investigation of its results provides details to identify critical unit processes contributing to the environmental categories. Sensitivity analyses reveal how changes to individual design parameters propagate through the model to influence the three dimensions of sustainability. Ultimately, the designer can select optimal design parameter values that can balance environmental, social, and economic sustainability.
 ![LCA Model](/assets/img/LCA.png)
 
@@ -32,10 +32,9 @@ Summary: Sustainable product design addresses sustainability challenges through 
 Summary: The material selection process of components remains a critical design step, requiring diverse knowledge to balance mechanical, economic, and environmental considerations. This research introduces a novel approach that leverages machine learning methods to predict the material category of 3D-designed parts. Focusing on Fusion 360 assembly data comprising 8,251 assemblies and 154,468 parts, the research explores the possibility of finding the associated material category of 3D CAD models based on their given geometrical and assembly data. The methodology section outlines a two-phase approach, encompassing data collection and the development of a machine learning prediction model. The data set's comprehensive structure, including assembly hierarchies, joints, contacts, and other physical properties, is detailed. The cleaning process ensures data accuracy and consistency, classifying material categories into seven types. Multiple machine learning algorithms are implemented and compared based on their performances to provide the highest accuracy and avoid overfitting and underfitting of the model. The feature selection and hyper-parameters tuning processes were also included to achieve iterative improvement of the model. The results provided show that the final random forest model can reach 81% accuracy in predicting the material categories for the CAD models.
 ![RF Model](/assets/img/RFmodel.png)
 
-#### Project: [Sustainable Product Design Using Systems Thinking and Systems Dynamics Methods](https://link.springer.com/chapter/10.1007/978-3-031-49179-5_43)
+#### Project: Sustainable Product Design Using Systems Thinking and Systems Dynamics Methods
 Summary: Sustainable product design requires new perspectives and methods to achieve environmental, social, and economic success. The multi-agent, multi-variable, complex environment in which stakeholders of a product coexist creates a complex system, which is known as the wicked problem of sustainability. This article aims to generate a systems understanding of the forces and dynamics underlying the wicked problem of sustainable design by applying systems thinking methods to design a relatively simple product: a reusable water bottle. The design variables and the product's life cycle stages are systematically identified and mapped out. The dynamic relationships among these variables and the key stakeholders are formulated into a causal loop diagram (CLD), with directions of change identified to form balancing and reinforcing loops. To validate the CLD representation, interviews with systems thinking experts are conducted to solicit feedback and input to create a more complete system dynamics understanding and framing of the sustainable design of a reusable water bottle. This systems approach highlights the complexities and critical drivers involved or introduced into sustainable product design, in addition to the level of simplicity and complexity of the product. The CLD is used to generate a stock and flow model that can simulate different scenarios over time and reveal the underlying dynamic behavior of this complex system. The findings provide a new comprehensive sustainable product design system representation with implications for product development practice, corporate strategy, and public policy.
 ![SDM](/assets/img/SDM.png)
-
 
 #### Project: A Survey Study Identifying the Characteristics of Sustainable Design System
 Summary: To achieve sustainability, a holistic sustainable system requires a balance of social, economic, and environmental dimensions. This multi-dimensional system has multiple stakeholders with different objectives acting within the system, thus resulting in a complex system. Product design is one of the approaches toward achieving sustainability, which is also influenced by policies. Product designers/managers and policymakers have been identified as critical stakeholders within this complex system, and their decisions directly affect the transition toward sustainable product design. However, these stakeholders have different perspectives on sustainability, and this research aims to find a detailed and unified understanding of their perspectives. An online survey investigated the views of engineers/managers and policymakers in the United States to better understand stakeholder's definitions of sustainability, sustainability assessment, drivers, and barriers to sustainability. Finally, the participants are asked to identify their requirements for a sustainable design tool that can assist them effectively in designing a sustainable product. A total of 50 participants were surveyed in this study, and their responses were analyzed qualitatively. The results provide a comprehensive view of this complex system's current state and future sustainable design tools requirements. The perspectives of these two critical stakeholders are investigated to understand their frame of reference and identify their needs for sustainable product design and policy-making.
@@ -69,7 +68,7 @@ Assisting professors with teaching-related tasks, such as preparing lectures, le
 
 #### Responsibilities and Projects:
 
-- Developed validation master plans (VMP) and led a team of four engineers in the qualification of manufacturing equipment, cleanrooms, water systems, HVAC, and processes of pharmaceutical companies.
+- Developed validation master plans (VMP) and led a team of four engineers in the qualification (IQ, OQ, PQ) of manufacturing equipment, cleanrooms, water systems, HVAC, and processes of pharmaceutical companies.
 - Generated qualification protocols and reports in compliance with international standards (ISO, GMP, WHO, ISPE, PIC/S), resulting in a 20% increase in regulatory adherence.
 - Reduced potential contamination risks in pharmaceutical manufacturing processes by more than 15% through effective risk analysis and management methods.
 # ![Qual](/assets/img/qual.png)
@@ -158,22 +157,22 @@ Systems Engineering (SoSE), Tacoma, WA, June 23-26.
 
 - **Basereh Taramsari, H.**, Rao, B., Nilchiani, R., Lipizzi, C. (2024) “Identification of Variables Impacting Cascading
 Failures in Aerospace Systems: A Natural Language Processing Approach,” Conference on Systems Engineering
-Research (CSER), Tucson, AR, March 25-28.
+Research (CSER), Tucson, AR, March 25-28.[DOI](https://cser.info/)
 
 - **Basereh Taramsari, H.**, Mudhar, S., Hoffenson, S. (2023) “An Integrated Holistic Approach Toward Sustainable
 Product Design Using Life Cycle Assessment,” ASME International Design Engineering Technical Conferences, Boston,
-MA, August 20-23.
+MA, August 20-23.[DOI](https://doi.org/10.1115/DETC2023-111608)
 
 - **Basereh Taramsari, H.**, McFarren, J., Watz, M., Hallstedt, S., Hoffenson, S. (2023) “Assessing Systemic Drivers and
 Barriers to Sustainable Design Transitions: Relationship Strengths and Research Gaps,” International Conference on
-Engineering Design, Bordeaux, France, July 24-28.
+Engineering Design, Bordeaux, France, July 24-28.[DOI](https://www.cambridge.org/core/journals/proceedings-of-the-design-society/article/assessing-systemic-drivers-and-barriers-to-sustainable-design-transitions-relationship-strengths-and-research-gaps/7CCFD7568C34100D783BF34E3BCD20CD)
 
 - **Basereh Taramsari, H.**, Hoffenson, S. (2023) “Sustainable Design of a Reusable Water Bottle: A Systems Thinking
-Approach,” Conference on Systems Engineering Research (CSER), Hoboken, NJ, March 16-17.
+Approach,” Conference on Systems Engineering Research (CSER), Hoboken, NJ, March 16-17.[DOI](https://link.springer.com/chapter/10.1007/978-3-031-49179-5_43)
 
 - Carter, M., **Basereh Taramsari, H.**, and Hoffenson, S. (2022) “Exploring the Integration of Design Structure Matrix
 and Life Cycle Assessment Tools to Improve Design for Sustainability,” ASME International Design Engineering
-Technical Conferences, St. Louis, MO, August 14-17.
+Technical Conferences, St. Louis, MO, August 14-17.[DOI](https://doi.org/10.1115/DETC2022-90492)
 
 - **Basereh Taramsari, H.**, and Wahyudi, H., (2016) Fabrication, Analysis and Experiment of a New Design Mechanical
 Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
