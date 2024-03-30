@@ -7,7 +7,7 @@ Address: Jersey City, NJ, United States
 ---
 ## [Skills](/assets/img/Skills.png)
 
-**Engineering:** FEA, FMEA, APQP, GD&T, Optimization, CI, Risk Management, NPD, Quality Engineering, Project Management, LCA, PLM
+**Engineering:** FEA, APQP, GD&T, Optimization, CI (Six Sigma, Lean), Risk Management (FMEA, RCA), NPD, Quality Engineering, Project Management, LCA, PLM
 
 **CAD/CAE/CAM:** SolidWorks, Autodesk (Fusion 360), ANSYS, Siemens NX, CATIA, PTC Creo, SolidEdge
 
