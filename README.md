@@ -5,7 +5,7 @@ Contact: [basereh.hossein@outlook.com](mailto:basereh.hossein@outlook.com) | [Li
 Address: Jersey City, NJ, United States
 
 ---
-## Skills
+## [Skills](/assets/img/Skills.png)
 
 ![SkillsENG](/assets/img/SENG.png)
 
