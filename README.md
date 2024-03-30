@@ -7,7 +7,9 @@ Address: Jersey City, NJ, United States
 ---
 ## Skills
 
-![Skills](/assets/img/Skills.png)
+![SkillsENG](/assets/img/SENG.png)
+
+![SkillsDS](/assets/img/SDS.png)
 
 **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, nltk, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, SQL, LaTeX 
 
