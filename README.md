@@ -7,7 +7,7 @@ Address: Jersey City, NJ, United States
 ---
 ## [Skills](/assets/img/Skills.png)
 
-**Engineering:** FEA, APQP, Optimization, CI (Six Sigma, Lean, 5S), Risk Management (FMEA, RCA), NPD, Quality Engineering (DOE, IQ, OQ, PQ, SPC), Project Management, CAD (SolidWorks, Autodesk-Fusion 360, Siemens NX, CATIA, PTC Creo), CAE (ANSYS, COMSOL), CAM (SolidEdge), GD&T, LCA, PLM.
+**Engineering:** FEA, Quality Engineering (APQP, DOE, IQ, OQ, PQ, SPC), Optimization, CI (Six Sigma, Lean, 5S), Risk Management (FMEA, RCA), NPD, Project Management (Waterfall, Agile, CPM), CAD (SolidWorks, Autodesk-Fusion 360, Siemens NX, CATIA, PTC Creo), CAE (ANSYS, COMSOL), CAM (SolidEdge), GD&T, LCA, PLM.
 
 **Data Science:** Statistics, Machine Learning, NLP, Data Visualization, Data Management, Algorithms, Data Structures, Cloud Computing, Data Wrangling, Version Control
 
