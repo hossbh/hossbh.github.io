@@ -6,6 +6,9 @@ Address: Jersey City, NJ, United States
 
 ---
 ## Skills
+
+[Skills](/assets/img/Skills.png)
+
 **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, nltk, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, SQL, LaTeX 
 
 **Engineering:** FEA, FMEA, APQP, GD&T, Optimization, Six Sigma, Lean, LCA, PLM, CFD, HVAC, Robotics, Additive Manufacturing
