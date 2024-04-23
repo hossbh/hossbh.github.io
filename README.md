@@ -11,7 +11,7 @@ Address: Jersey City, NJ, United States
 
 **Data Science:** Statistics, Machine Learning, NLP, Data Visualization, Data Management, Algorithms, Data Structures, Cloud Computing, Data Wrangling, Version Control (Git)
 
-**Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, seaborn, matplotlib, nltk, bokeh, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, SQL, LaTeX 
+**Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, keras, seaborn, matplotlib, nltk, bokeh, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, SQL, LaTeX 
 
 **Other Software:** Tableau, PowerBI, Minitab, Vensim, NetLogo, MagicDraw, openLCA, Gabi, Ecochain, Gephi, Microsoft (Project, Excel, Word, Outlook, Access)
 
