@@ -191,6 +191,7 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 - [American Society of Mechanical Engineers (ASME)](https://www.asme.org/)
 ![ASME](/assets/img/asme.png)
 - [American Society for Engineering Management (ASEM)](https://www.asem.org/)
+![ASEM](/assets/img/ASEM.png)
 - [The American Center for Life Cycle Assessment (ACLCA)](https://aclca.org/)
 - [The International Council on Systems Engineering (INCOSE)](https://www.incose.org/)
 - [The International Society of Transdisciplinary Engineering (ISTE)](https://intsoctransde.org/)
