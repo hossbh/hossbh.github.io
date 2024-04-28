@@ -20,7 +20,7 @@ Address: Jersey City, NJ, United States
 ---
 ## Experience
 
-**Graduate Research and Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
+**Research and Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
 
 #### Research Assistant:
 
@@ -64,7 +64,7 @@ Assisting professors with teaching-related tasks, such as preparing lectures, le
 - Implemented new product development procedures, enhancing the sustainable design in R&D practices by 13%.
 # ![Micro Pump](/assets/img/Mpump.png)
 
-**Validation & Qualification Expert** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran | Apr 2017 – Dec 2021
+**Quality Assurance Engineer** | [Pania Validation Group](https://www.pvgroup.ir/en/), Iran | Apr 2017 – Dec 2021
 
 #### Responsibilities and Projects:
 
@@ -73,7 +73,7 @@ Assisting professors with teaching-related tasks, such as preparing lectures, le
 - Reduced potential contamination risks in pharmaceutical manufacturing processes by more than 15% through effective risk analysis and management methods.
 # ![Qual](/assets/img/qual.png)
 
-**Product & Manufacturing Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran | Feb 2016 – Mar 2017
+**Product Engineer** | [Ezam Automotive Parts Group](https://www.ezamco.ir/En/), Iran | Feb 2016 – Mar 2017
 
 #### Responsibilities and Projects:
 
