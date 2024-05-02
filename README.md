@@ -179,6 +179,7 @@ Hand. Journal of Engineering and Applied Sciences, 11: 2316-2325.
 
 ---
 ## Awards
+- Distinguished Leadership by a PhD Student in the School of Systems and Enterprises | Stevens Institute of Technology (2024)
 - Design Theory and Methodology Poster Session Award | ASME-IDETC (2022 & 2023)
 - Computer and Information in Engineering Poster Session Award | ASME-IDETC (2023)
 ![CIE](/assets/img/CIE.png)
