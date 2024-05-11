@@ -7,7 +7,7 @@ Address: Jersey City, NJ, United States
 ---
 ## [Skills](/assets/img/Skills.png)
 
-**Engineering:** Finite Element Analysis, Optimization, Six Sigma, Lean, Risk Management, NPD, Statistics, Project Management, GD&T, Verification and validation (V&V), Technical documentation, LCA, PLM, CAD (SolidWorks, Autodesk Fusion 360, Siemens NX, CATIA, PTC Creo), CAE (ANSYS, COMSOL), CAM (SolidEdge)
+**Engineering:** Finite Element Analysis, Optimization, Six Sigma, Lean, Risk Management, NPD, Statistics, Project Management, GD&T, Verification and validation (V&V), Technical documentation, Automation, LCA, PLM, CAD (SolidWorks, Autodesk Fusion 360, Siemens NX, CATIA, PTC Creo), CAE (ANSYS, COMSOL), CAM (SolidEdge)
 
 **Data Science:** Statistics, Machine Learning, NLP, Data Visualization, Data Management, Algorithms, Data Structures, Cloud Computing, Data Wrangling, Version Control (Git)
 
