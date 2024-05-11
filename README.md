@@ -82,8 +82,7 @@ Assisting professors with teaching-related tasks, such as preparing lectures, le
 # ![HPS](/assets/img/nhps.png)
 ---
 ## Education
-**Ph.D. in Engineering Management** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 – Anticipated Dec 2024
-- Remark: All my course and research requirements will be completed by May 14, 2024, and I plan to have my dissertation defense in December 2024.
+**Ph.D. in Engineering Management** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 – May 2024 (ABD)
 - GPA 4.00
 - Courses:
   - Systems Modeling and Simulation
