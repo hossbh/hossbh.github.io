@@ -20,7 +20,7 @@ Address: Jersey City, NJ, United States
 ---
 ## Experience
 
-**Research and Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
+**Research & Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
 
 #### Research Assistant:
 
