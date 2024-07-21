@@ -9,7 +9,7 @@ Address: Jersey City, NJ, United States
 
 **Engineering:** Finite Element Analysis, Optimization, Six Sigma, Lean, Risk Management, NPD, Statistics, Project Management, GD&T, Verification and validation (V&V), Technical documentation, Automation, LCA, PLM, CAD (SolidWorks, Autodesk Fusion 360, Siemens NX, CATIA, PTC Creo), CAE (ANSYS, COMSOL), CAM (SolidEdge)
 
-**Data Science:** Statistics, Machine Learning, NLP, Data Visualization, Data Management, Algorithms, Data Structures, Cloud Computing, Data Wrangling, Version Control (Git)
+**Data Science:** Statistics, Machine Learning, NLP, Data Visualization, Data Management, Algorithms, Data Structures, Data Wrangling, Version Control (Git)
 
 **Programming:** Python (pandas, numpy, pytorch, sckit-learn, tensorflow, keras, seaborn, matplotlib, nltk, bokeh, dash, networkx), R (ggplot2, shiny, dplyr, tidyverse, igraph), MATLAB, SQL, LaTeX 
 
