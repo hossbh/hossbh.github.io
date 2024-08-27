@@ -4,7 +4,6 @@ Contact: [basereh.hossein@outlook.com](mailto:basereh.hossein@outlook.com) | [Li
 
 Address: PA, United States
 
----
 <!--## [Skills](/assets/img/Skills.png)
 
 **Engineering:** Finite Element Analysis, Optimization, Six Sigma, Lean, Risk Management, NPD, Statistics, Project Management, GD&T, Verification and validation (V&V), Technical documentation, Automation, LCA, PLM, CAD (SolidWorks, Autodesk Fusion 360, Siemens NX, CATIA, PTC Creo), CAE (ANSYS, COMSOL), CAM (SolidEdge)
