@@ -2,10 +2,10 @@
 
 Contact: [basereh.hossein@outlook.com](mailto:basereh.hossein@outlook.com) | [LinkedIn](https://www.linkedin.com/in/hossein-basereh)
 
-Address: Jersey City, NJ, United States
+Address: PA, United States
 
 ---
-## [Skills](/assets/img/Skills.png)
+<!--## [Skills](/assets/img/Skills.png)
 
 **Engineering:** Finite Element Analysis, Optimization, Six Sigma, Lean, Risk Management, NPD, Statistics, Project Management, GD&T, Verification and validation (V&V), Technical documentation, Automation, LCA, PLM, CAD (SolidWorks, Autodesk Fusion 360, Siemens NX, CATIA, PTC Creo), CAE (ANSYS, COMSOL), CAM (SolidEdge)
 
@@ -15,7 +15,7 @@ Address: Jersey City, NJ, United States
 
 **Other Software:** Tableau, PowerBI, Minitab, Vensim, NetLogo, MagicDraw, openLCA, Gabi, Ecochain, Gephi, Microsoft (Project, Excel, Word, Outlook, Access)
 
-**Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility. 
+**Soft Skills:** Research-driven, problem-solver, critical-thinker with exceptional verbal and written communication skills, proven leadership abilities, proactive and self-motivated, organized and efficient with close attention to detail, and strong adaptability/flexibility.  -->
 
 ---
 ## Experience
