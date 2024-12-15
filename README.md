@@ -19,6 +19,10 @@ Address: PA, United States
 ---
 ## Experience
 
+**Project Engineer** | [Victaulic]([https://www.victaulic.com/), USA | July 2024 - Present
+
+#### Developing the next generation of pipe joining solutions-coupling technology, large diameter.
+
 **Research & Teaching Assistant** | [Stevens Institute of Technology](https://www.stevens.edu/), USA | Jan 2022 - Present
 
 #### Research Assistant:
